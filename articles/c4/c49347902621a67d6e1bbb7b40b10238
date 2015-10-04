@@ -1,0 +1,5 @@
+title:PHP 引擎调研 (Weibing Wang)
+url:http://lamp.baidu.com/2014/10/16/php-engine-investigation/&amp;aid=1743&amp;nid=55
+author:
+author_url:
+text:<p>该调研是 13 年 10 月做的，目标是寻找更好的 PHP 引擎，来代替百度各产品线正在使用的 PHP 5.2。</p>

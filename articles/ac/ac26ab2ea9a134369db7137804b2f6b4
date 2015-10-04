@@ -1,0 +1,5 @@
+title:新浪新闻评论系统的架构演进和经验总结 (@pi1ot)
+url:http://www.csdn.net/article/2014-12-17/2823183&amp;aid=1735&amp;nid=55
+author:
+author_url:
+text:<p>作者刘立曾负责新浪网评论系统多年，经历了从单机到多机再到集群，从简单到复杂再回归简单的过程。</p>

@@ -1,0 +1,5 @@
+title:系列文章：搭建高可用 MongoDB 集群（@观澜而索源）
+url:http://www.lanceyan.com/tech/mongodb/mongodb_cluster_1.html&amp;aid=902&amp;nid=27
+author:
+author_url:
+text:<p>此为第一部分配置 MongoDB，其他部分：<a href="http://www.lanceyan.com/tech/mongodb/mongodb_repset1.html" target="_blank">副本集</a>、<a href="http://www.lanceyan.com/tech/mongodb_repset2.html" target="_blank">深入副本集内部机制</a>、<a href="http://www.lanceyan.com/tech/arch/mongodb_shard1.html" target="_blank">分片</a>。</p>

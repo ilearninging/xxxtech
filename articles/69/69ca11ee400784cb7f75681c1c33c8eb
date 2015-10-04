@@ -1,0 +1,5 @@
+title:Spark Internals (@JerryLead)
+url:https://github.com/JerryLead/SparkInternals/tree/master/markdown&amp;aid=1355&amp;nid=42
+author:
+author_url:
+text:<p>本文主要讨论 Apache Spark 的设计与实现，重点关注其设计思想、运行原理、实现架构及性能调优，附带讨论与 Hadoop MapReduce 在设计与实现上的区别。</p>

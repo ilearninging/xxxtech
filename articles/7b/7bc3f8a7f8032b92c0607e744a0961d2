@@ -1,0 +1,5 @@
+title:[PDF] Clojure at Netflix（Dave Ray）
+url:http://vdisk.weibo.com/s/G-kaugh6r-oT&amp;aid=51&amp;nid=4
+author:
+author_url:
+text:<p>Clojure 是一种 Lisp 方言，不仅可在 JVM 上运行，而且在设计上还兼顾了 Java 的互操作性。同时也考虑了并发性，并具有并发编程的一些独特特性。<a href="https://speakerdeck.com/daveray/clojure-at-netflix" target="_blank">PDF 中</a>介绍了 Netflix 使用 Clojure 的情况，以及在生产环境下 Clojure 的优点、缺点和吐槽点。</p>

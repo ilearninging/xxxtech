@@ -1,0 +1,5 @@
+title:HHVM 是如何提升 PHP 性能的？（@吴多益）
+url:http://wuduoyi.com/note/hhvm/&amp;aid=473&amp;nid=20
+author:
+author_url:
+text:<p>HHVM 是 Facebook 开发的高性能 PHP 虚拟机，宣称比官方的快 9 倍。</p>

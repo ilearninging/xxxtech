@@ -1,0 +1,5 @@
+title:Page Monitor - 一个监控页面变化的开源项目（@前端农民工）
+url:https://github.com/fouber/page-monitor&amp;aid=1412&amp;nid=43
+author:
+author_url:
+text:<p>用 phantomjs 运行页面，保存所有元素的标签、属性、计算样式、文本内容，跟历史进行对比，从而发现产品的运营内容变化、功能改版等。</p>

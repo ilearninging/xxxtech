@@ -1,0 +1,5 @@
+title:我们如何击败 C++ STL 二叉树搜索：Realm 的性能优化
+url:https://realm.io/cn/news/how-we-beat-cpp-stl-binary-search/&amp;aid=3532&amp;nid=87
+author:
+author_url:
+text:<p>一个关于如何开发一个比 C++ STL 快 24% 的二叉搜索函数的故事</p>

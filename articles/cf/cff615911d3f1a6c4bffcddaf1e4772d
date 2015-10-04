@@ -1,0 +1,5 @@
+title:面向 GC 的 Java 编程（@Hesey小纯纯）
+url:http://blog.hesey.net/2014/05/gc-oriented-java-programming.html&amp;aid=1048&amp;nid=31
+author:
+author_url:
+text:<p>不要指望 GC 优化的这些技巧，可以对应用性能有成倍的提高，特别是对 I/O 密集型的应用。</p>

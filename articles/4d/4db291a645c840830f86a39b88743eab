@@ -1,0 +1,5 @@
+title:分布式系统的事务处理（@左耳朵耗子）
+url:http://coolshell.cn/articles/10910.html&amp;aid=423&amp;nid=36
+author:
+author_url:
+text:<p>本文系统地介绍了用于处理分布式数据一致性的技术模型，如：Master-Slave、Master-Master、2PC/3PC、经典的将军问题、Paxos 以及 Dynamo 的 NRW 和 VectorClock 的模型。</p>

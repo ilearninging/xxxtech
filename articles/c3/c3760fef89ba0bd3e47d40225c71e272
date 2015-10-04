@@ -1,0 +1,5 @@
+title:Summingbird - Twitter 流处理框架 
+url:https://github.com/twitter/summingbird&amp;aid=452&amp;nid=19
+author:
+author_url:
+text:<p>Summingbird 是一个大规模数据处理系统，支持开发者以批处理模式（基于 Hadoop/MapReduce ）或流处理模式（基于 Storm ）或混合模式（即组合前两种模式）以统一的方式执行代码。</p>

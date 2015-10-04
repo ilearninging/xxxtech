@@ -1,0 +1,5 @@
+title:Node.js 的线程和进程（吴中骅）
+url:http://www.infoq.com/cn/articles/nodejs-threads-and-processes&amp;aid=911&amp;nid=27
+author:
+author_url:
+text:<p>Node.js 到底是单线程的还是多线程的？感谢 <a href="http://weibo.com/ty4z2008" target="_blank">@廖君_Jun</a> 的推荐</p>

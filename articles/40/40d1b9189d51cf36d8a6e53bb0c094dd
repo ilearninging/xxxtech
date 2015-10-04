@@ -1,0 +1,5 @@
+title:[译] 深入理解 Java 8 Lambda（语言篇） (@peng_gong)
+url:http://zh.lucida.me/blog/java-8-lambdas-insideout-language-features/&amp;aid=1557&amp;nid=49
+author:
+author_url:
+text:<p>本文主要介绍 Java 8 新增的语言特性（比如 lambda 和方法引用）、语言概念（比如目标类型和变量捕获）以及设计思路。</p>

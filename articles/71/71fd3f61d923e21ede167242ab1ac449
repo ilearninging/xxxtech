@@ -1,0 +1,5 @@
+title:Ruby GC 揭秘 (Sam Saffron)
+url:http://samsaffron.com/archive/2013/11/22/demystifying-the-ruby-gc&amp;aid=512&amp;nid=21
+author:
+author_url:
+text:<p>Ruby 2.1.1 发布后，搜索了一下 GC 有没有新参数可设置，发现了这篇好文章。via <a href="http://weibo.com/quakewang" target="_blank">@quakewang</a></p>

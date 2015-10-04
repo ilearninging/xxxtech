@@ -1,0 +1,5 @@
+title:Java 8 的新特性：default method (@dreamhead)
+url:http://dreamhead.blogbus.com/logs/271871933.html&amp;aid=1450&amp;nid=45
+author:
+author_url:
+text:<p>“default method” 是 Java 8 引入的一个特性，其初衷是为了解决既有程序库扩展的问题。</p>

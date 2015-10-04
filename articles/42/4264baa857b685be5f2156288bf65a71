@@ -1,0 +1,5 @@
+title:C++ 面试中 string 类的一种正确写法（@bnu_chenshuo）
+url:http://coolshell.cn/articles/10478.html&amp;aid=84&amp;nid=6
+author:
+author_url:
+text:<p>C++ 的一个常见面试题是让你实现一个 String 类，限于时间，不可能要求具备 std::string 的功能，但至少要求能正确管理资源。感谢 <a href="http://weibo.com/haoel" target="_blank">@左耳朵耗子</a> 的分享。</p>

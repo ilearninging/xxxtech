@@ -1,0 +1,5 @@
+title:[译] Salesforce 架构介绍（CSDN云计算）
+url:http://www.csdn.net/article/2013-09-26/2817051-salesforce-13b-transactions-architecture&amp;aid=39&amp;nid=3
+author:
+author_url:
+text:<p>自1999年 Salesforce 就开始专注互联网技术，致力于传统企业软件的替换。而今其日处理事务已超13亿，峰值情况下数据库上的事务更达每秒2.4万，近日 Salesforce 公布了其系统的架构。</p>

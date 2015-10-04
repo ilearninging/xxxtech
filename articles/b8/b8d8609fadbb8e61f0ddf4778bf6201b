@@ -1,0 +1,5 @@
+title:英特尔 EDISON 编程环境间的数据分享 (英特尔开发人员专区)
+url:https://software.intel.com/zh-cn/blogs/2015/05/05/efficient-data-sharing-using-interrupts-on-intel-edison?utm_source=Manong&utm_medium=Newsletter&utm_campaign=IoT_PRC_Q315_Manong&amp;aid=3648&amp;nid=88
+author:
+author_url:
+text:<p>探讨发布程序-订阅程序模式，这种模式可使运行于 Linux 的不同程序之间实现数据共享。</p>

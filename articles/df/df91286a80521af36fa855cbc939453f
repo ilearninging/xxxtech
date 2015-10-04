@@ -1,0 +1,5 @@
+title:[译] 深入 Go Playground 内幕 (Golang中文社区)
+url:http://studygolang.com/articles/1146&amp;aid=1869&amp;nid=60
+author:
+author_url:
+text:<p>Go Playground 是一个完全由 Go 代码组成和返回程序运行结果的 Web 服务器</p>

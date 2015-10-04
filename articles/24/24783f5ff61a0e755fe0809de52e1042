@@ -1,0 +1,5 @@
+title:HTTP 接口设计指北 (@捣蛋大魔王)
+url:https://github.com/bolasblack/http-api-guide&amp;aid=2167&amp;nid=68
+author:
+author_url:
+text:<p>本文档主要目的是为设计接口时提供建议，使大家不必重复造 HTTP 协议已经完成的轮子。</p>

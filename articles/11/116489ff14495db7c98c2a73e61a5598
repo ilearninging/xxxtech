@@ -1,0 +1,5 @@
+title:借助 AOP 为 Java Web 应用记录性能数据 (潘家邦)
+url:http://blog.jamespan.me/2015/08/31/capture-perf-data-with-aop/&amp;aid=3439&amp;nid=86
+author:
+author_url:
+text:<p>一个基于 AOP 来抓取调用树和开销的尝试</p>

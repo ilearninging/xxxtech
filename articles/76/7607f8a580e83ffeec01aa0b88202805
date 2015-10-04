@@ -1,0 +1,5 @@
+title:MySQL 5.7：短连接优化 (zhaiwx1987)
+url:http://mysqllover.com/?p=1151&amp;aid=1698&amp;nid=53
+author:
+author_url:
+text:<p>尽管比较罕见，但某些场景还是存在着短连接，即用户执行完请求后，很快断开会话。</p>

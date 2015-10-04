@@ -1,0 +1,5 @@
+title:Go 并发模式：管道和取消 (Googol Lee)
+url:http://air.googol.im/2014/03/15/go-concurrency-patterns-pipelines-and-cancellation.html&amp;aid=772&amp;nid=24
+author:
+author_url:
+text:<p>介绍如何使用 Go 来编写并发程序，并按照程序的演化顺序，介绍了不同模式遇到的问题以及解决的问题。</p>

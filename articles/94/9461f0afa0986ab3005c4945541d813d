@@ -1,0 +1,5 @@
+title:C 语言的整型溢出问题（@左耳朵耗子）
+url:http://coolshell.cn/articles/11466.html&amp;aid=974&amp;nid=29
+author:
+author_url:
+text:<p>整型溢出会有可能导致缓冲区溢出，缓冲区溢出会导致各种黑客攻击。</p>

@@ -1,0 +1,5 @@
+title:[视频] Sohu 邮箱的 Python 经验分享（彭一）
+url:http://www.infoq.com/cn/presentations/sohu-mailbox-python-experience&amp;aid=53&amp;nid=4
+author:
+author_url:
+text:<p>搜狐邮箱是国内最大的 Python 应用之一，视频中分享了 Python 在搜狐邮箱的使用经验，主要包括：优雅地发布 Python 项目、优秀的 Web 框架——Tornado、加速你的 Python 代码和简化你的 C 代码。</p>

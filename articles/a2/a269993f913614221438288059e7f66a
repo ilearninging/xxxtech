@@ -1,0 +1,5 @@
+title:如何实现一个 malloc（@敲代码的张洋）
+url:http://blog.codinglabs.org/articles/a-malloc-tutorial.html&amp;aid=1358&amp;nid=42
+author:
+author_url:
+text:<p>任何一个用过或学过 C 的人对 malloc 都不会陌生，本文通过实现一个简单的 malloc 来描述 malloc 背后的机制。</p>

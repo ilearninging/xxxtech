@@ -1,0 +1,5 @@
+title:[译] Ruby 2.2 中的增量式垃圾回收 (alex_marmot)
+url:https://ruby-china.org/topics/24242&amp;aid=1945&amp;nid=62
+author:
+author_url:
+text:<p>原文作者 Koichi Sasada 为 Ruby 2.2 实现了增量式 GC</p>

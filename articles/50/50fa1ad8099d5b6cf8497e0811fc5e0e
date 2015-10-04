@@ -1,0 +1,5 @@
+title:用 MapReduce 实现矩阵乘法（@Conan_Z）
+url:http://blog.fens.me/hadoop-mapreduce-matrix/&amp;aid=417&amp;nid=18
+author:
+author_url:
+text:<p>MapReduce 打开了并行计算的大门，让我们个人开发者有了处理大数据的能力。但想用好 MapReduce，把原来单机算法并行化，也不是一件容易事情。</p>

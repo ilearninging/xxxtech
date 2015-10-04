@@ -1,0 +1,5 @@
+title:Presto 实现原理和美团的使用实践（@木叶丸autumn）
+url:http://tech.meituan.com/presto.html&amp;aid=1213&amp;nid=37
+author:
+author_url:
+text:<p>Facebook 称 Presto 的性能比 Hive 要好上 10 倍多。本文尝试对 Presto 实现实时查询的原理进行分析和总结，并介绍 Presto 在美团的使用情况。（感谢 <a href="http://weibo.com/chenzhijun" target="_blank">@JavaChen</a> 分享）</p>

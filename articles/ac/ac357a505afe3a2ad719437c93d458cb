@@ -1,0 +1,5 @@
+title:iOS 开发工具——网络封包分析工具 Charles（@唐巧_boy）
+url:http://www.infoq.com/cn/articles/network-packet-analysis-tool-charles&amp;aid=301&amp;nid=14
+author:
+author_url:
+text:<p>Charles 是在 Mac 下常用的截取网络封包的工具，在做 iOS 开发时，为了调试与服务器端的网络通讯协议，常常需要截取网络封包来分析。</p>

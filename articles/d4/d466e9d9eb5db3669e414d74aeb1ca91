@@ -1,0 +1,5 @@
+title:[译] Cassandra - 一个分散的结构化存储系统（2010）
+url:http://www.dbthink.com/archives/372&amp;aid=101&amp;nid=7
+author:
+author_url:
+text:<p>本文翻译自 Facebook 员工的<a href="http://www.cs.cornell.edu/Projects/ladis2009/papers/Lakshman-ladis2009.PDF" target="_blank">论文</a>，两位作者详细介绍了 Cassandra 的系统架构、设计初衷、设计应用时使用到的相关技术以及设计/实现/使用过程中得到的经验教训。译者：<a href="http://weibo.com/u/1765260200" target="_blank">jametong</a></p>

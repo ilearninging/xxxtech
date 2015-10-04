@@ -1,0 +1,5 @@
+title:并发导论（寻寒）
+url:http://ifeve.com/concurrency-paper/&amp;aid=394&amp;nid=18
+author:
+author_url:
+text:<p>很详细，介绍了很多并发基础知识，如内存重排、锁、cache 等。感谢 <a href="http://e.weibo.com/91bingfa" target="_blank">@并发编程网站</a> 的推荐</p>

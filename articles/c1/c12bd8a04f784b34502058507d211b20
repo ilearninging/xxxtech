@@ -1,0 +1,5 @@
+title:三种方式使得 iOS 应用能够在后台进行数据更新和下载 (@戴铭)
+url:http://www.starming.com/index.php?v=index&view=69&amp;aid=1980&amp;nid=63
+author:
+author_url:
+text:<p>分别是：Background Fetch、Remote Notification 和 NSURLSession的backgroundSessionConfiguration。</p>

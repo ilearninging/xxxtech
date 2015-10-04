@@ -1,0 +1,5 @@
+title:Erlang vheap 刨析和注意事项（@淘宝褚霸）
+url:http://blog.yufeng.info/archives/2903&amp;aid=82&amp;nid=6
+author:
+author_url:
+text:<p>Erlang 从 R13B03 开始引入 vheap 的概念，但除了官方 release note 里的简单解释，无法找到更详细的文档。</p>

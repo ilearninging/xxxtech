@@ -1,0 +1,5 @@
+title:在 WebView 中如何让 JS 与 Java 安全地互相调用 (pedant)
+url:http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/&amp;aid=1595&amp;nid=50
+author:
+author_url:
+text:<p><a href="https://github.com/pedant/safe-java-js-webview-bridge" target="_blank">源码地址</a> 感谢 <b>@雁月天007</b> 推荐</p>

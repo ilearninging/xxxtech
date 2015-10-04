@@ -1,0 +1,5 @@
+title:AliRedis 单机180w QPS，8台服务器构建1000w QPS Cache 集群（@阿里技术保障部）
+url:http://blog.sina.com.cn/s/blog_e59371cc0101br74.html&amp;aid=392&amp;nid=18
+author:
+author_url:
+text:<p>分析 Redis 现有问题，介绍阿里对 Redis 的改造工作。</p>

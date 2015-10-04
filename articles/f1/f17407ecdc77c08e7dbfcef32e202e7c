@@ -1,0 +1,5 @@
+title:[译] lmctfy：Google 的开源 Linux 容器
+url:http://geek.csdn.net/news/detail/2934&amp;aid=56&amp;nid=4
+author:
+author_url:
+text:<p>Google 开源了他们的 Linux 容器系统 lmctfy（读音是 lem-kut-fee ），著名的 Linux 容器开源项目 Docker 负责人 Solomon Hykes 初步探索代码后认为，lmctfy 代码很干净、占用小、构建体验优秀，他正在考虑将其作为 Docker 的后端。<a href="https://github.com/google/lmctfy/" target="_blank">GitHub 地址</a> via <a href="http://weibo.com/turingbook" target="_blank">@刘江总编</a></p>

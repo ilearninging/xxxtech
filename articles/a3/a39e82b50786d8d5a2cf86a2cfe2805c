@@ -1,0 +1,5 @@
+title:系列文章：深入剖析 Redis（@郑思愿daoluan）
+url:http://daoluan.net/blog/redis-data-elimination/&amp;aid=1076&amp;nid=32
+author:
+author_url:
+text:<p>此为第 5 篇数据淘汰策略，另外 4 篇：<a href="http://daoluan.net/blog/decode-redis-event-driven/" target="_blank">事件驱动</a>、<a href="http://daoluan.net/blog/decode-redis-rdb-persistence/" target="_blank">RDB 持久化策略</a>、<a href="http://daoluan.net/blog/decode-redis-aof-persistence/" target="_blank">AOF 持久化策略</a>、<a href="http://daoluan.net/blog/decode-redis-replication/" target="_blank">主从复制</a></p>

@@ -1,0 +1,5 @@
+title:gevent 程序员指南（Gevent社区）
+url:http://xlambda.com/gevent-tutorial/&amp;aid=34&amp;nid=3
+author:
+author_url:
+text:<p>gevent 是一个基于 libev 的高性能 Python 并发库，它为各种并发和网络相关任务提供了整洁的 API。</p>

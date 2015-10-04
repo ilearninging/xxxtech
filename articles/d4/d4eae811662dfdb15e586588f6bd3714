@@ -1,0 +1,5 @@
+title:亿级用户下的新浪微博平台架构 (@卫向军_微博)
+url:http://mp.weixin.qq.com/s?__biz=MzA4ODAyOTI4Ng==&mid=201320389&idx=1&sn=47eadf22183348c6982e24bf66287ef1&amp;aid=1830&amp;nid=59
+author:
+author_url:
+text:<p>微博平台第一代架构为 LAMP 架构，数据库使用的 MyISAM，后台用的 PHP，缓存为 Memcache。</p>

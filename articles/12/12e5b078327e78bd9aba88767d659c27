@@ -1,0 +1,5 @@
+title:Tomcat 设计模式总结（@Krq_Tiger）
+url:http://imtiger.net/blog/2013/11/08/tomcat-design-pattern/&amp;aid=152&amp;nid=9
+author:
+author_url:
+text:<p>本文将分析 Tomcat 中的一些设计模式：外观模式、观察者模式、责任链模式、模板方法模式和命令模式。</p>

@@ -1,0 +1,5 @@
+title:用 Go 编写 HTTP 中间件（Justinas）
+url:http://justinas.org/writing-http-middleware-in-go/&amp;aid=108&amp;nid=7
+author:
+author_url:
+text:<p>Go 很强大，作者分享了如何用 Go 编写一个简单的 HTTP 中间件。</p>

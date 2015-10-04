@@ -1,0 +1,5 @@
+title:[译] Netflix：Express.js 性能调优心得 (黄晓雯)
+url:http://www.infoq.com/cn/news/2014/12/expressjs-burned-netflix&amp;aid=1716&amp;nid=54
+author:
+author_url:
+text:<p>使用 Node.js 构建网站过程中遇到的高请求延迟问题，以及性能调优过程和心得。</p>

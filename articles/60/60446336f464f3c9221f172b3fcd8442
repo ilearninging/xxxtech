@@ -1,0 +1,5 @@
+title:为什么长尾数据的翻页技术实现复杂 (@TimYang)
+url:http://timyang.net/data/key-list-pagination/&amp;aid=1727&amp;nid=54
+author:
+author_url:
+text:<p>针对 key-list 类型的数据，如何优化方案做到性能与成本的 tradeoff。</p>

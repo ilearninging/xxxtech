@@ -1,0 +1,5 @@
+title:从外行的视角尝试讲解为什么这回丰田栽了（Kuzuryuusen）
+url:http://club.tgfcer.com/thread-6817371-1-1.html&amp;aid=171&amp;nid=9
+author:
+author_url:
+text:<p>比如丰田的软件包含了超过一万一千个全局变量。如果你不知道什么是全局变量，那么只需要知道软件设计的一般原则是要尽量少使用全局变量，因为有可能带来无法预测的结果。</p>

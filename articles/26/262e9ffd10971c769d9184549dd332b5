@@ -1,0 +1,5 @@
+title:从 2000 毫秒到 10 毫秒——Lucida 拼音库的设计与实现 (@peng_gong)
+url:http://zh.lucida.me/blog/lucida-pinyin-converter/&amp;aid=1711&amp;nid=56
+author:
+author_url:
+text:<p>Lucida 拼音库以微软拼音库为基础，能够快速的把汉字转化为对应的拼音，它比微软拼音库快 200 多倍，同时占用内存不到微软拼音库的八分之一。</p>

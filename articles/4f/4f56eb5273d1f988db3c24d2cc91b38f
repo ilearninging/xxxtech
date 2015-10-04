@@ -1,0 +1,5 @@
+title:[译] 基于锁的原子操作（@方腾飞-清英）
+url:http://ifeve.com/inter-64-ia-32-8-1/&amp;aid=293&amp;nid=14
+author:
+author_url:
+text:<p>本文翻译自<a href="http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html" target="_blank">《英特尔 64 和 IA-32 架构软件开发人员手册》</a>卷三“系统编程指南”的第八章“多处理器的管理”的第一节。</p>

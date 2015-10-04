@@ -1,0 +1,5 @@
+title:四种框架实现百万 WebSocket 连接的服务器 (@colobu)
+url:http://colobu.com/2015/05/22/implement-C1000K-servers-by-spray-netty-undertow-and-node-js/&amp;aid=2756&amp;nid=78
+author:
+author_url:
+text:<p>spray-websocket、Netty、Undertow 和 Node.js</p>

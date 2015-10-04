@@ -1,0 +1,5 @@
+title:拒绝外部修改的对象（Node.js） (faceair)
+url:http://lucy.faceair.me/archives/361/&amp;aid=2501&amp;nid=74
+author:
+author_url:
+text:<p>实现了一个“可内部修改但不能被外部修改”的对象</p>

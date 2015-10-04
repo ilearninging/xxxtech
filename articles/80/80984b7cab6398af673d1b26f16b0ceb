@@ -1,0 +1,5 @@
+title:Erlang poolboy 的坑 (@liaolinbo)
+url:http://linbo.github.io/2015/04/25/poolboy-pitfall/&amp;aid=2222&amp;nid=69
+author:
+author_url:
+text:<p>Erlang 中运用非常广泛的进程池库</p>

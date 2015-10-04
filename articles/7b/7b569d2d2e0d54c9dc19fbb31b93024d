@@ -1,0 +1,5 @@
+title:Curl 的毫秒超时的一个”Bug”（@Laruence）
+url:http://www.laruence.com/2014/01/21/2939.html&amp;aid=432&amp;nid=19
+author:
+author_url:
+text:<p>PHP 的 curl 不能设置小于1000ms超时的问题</p>

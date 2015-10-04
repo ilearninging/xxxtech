@@ -1,0 +1,5 @@
+title:Dropbox 如何使用 C++ 进行 iOS 与 Android 的跨平台开发 (Ole Begemann)
+url:http://oleb.net/blog/2014/05/how-dropbox-uses-cplusplus-cross-platform-development/&amp;aid=1245&amp;nid=38
+author:
+author_url:
+text:<p>总结了 Mailbox 开发者 Steven Kabbes 是如何将 Mailbox 移植到 Android 平台的</p>

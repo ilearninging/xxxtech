@@ -1,0 +1,5 @@
+title:yac-0.9.1 发布
+url:http://pecl.php.net/package/yac&amp;aid=1290&amp;nid=39
+author:
+author_url:
+text:<p>一个无锁的共享内存 cache，用来替代 PHP 的 APC 缓存或者本地 memcached。</p>

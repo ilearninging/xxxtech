@@ -1,0 +1,5 @@
+title:Spring 4.0 正式版发布
+url:http://spring.io/blog/2013/12/12/announcing-spring-framework-4-0-ga-release&amp;aid=302&amp;nid=14
+author:
+author_url:
+text:<p>Release Notes 里又提到了 micro-service architecture，使用嵌入式的 Jetty/Tomcat 打包成一个可执行的 Jar。这样做对测试、部署和扩展都有莫大好处。via <a href="http://weibo.com/calvin1978" target="_blank">@江南白衣Calvin</a></p>

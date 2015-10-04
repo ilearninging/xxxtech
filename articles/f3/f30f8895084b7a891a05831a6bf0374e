@@ -1,0 +1,5 @@
+title:Python 函数参数默认值的陷阱和原理深究 (卢钧轶)
+url:http://cenalulu.github.io/python/default-mutable-arguments/&amp;aid=2012&amp;nid=64
+author:
+author_url:
+text:<p>使用 mutable 对象的潜在危害</p>

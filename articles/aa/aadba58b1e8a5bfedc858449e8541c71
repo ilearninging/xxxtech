@@ -1,0 +1,5 @@
+title:最小的分布式系统 Travis CI（Mathias Meyer）
+url:http://www.paperplanes.de/2013/10/18/the-smallest-distributed-system.html&amp;aid=99&amp;nid=16
+author:
+author_url:
+text:<p>Travis CI 是一个为开源软件做持续集成的服务，到2013年为止每天有45000个 Build 任务在它的500多台 Build 服务器上执行。文章介绍了它的架构演化过程，值得一读。via <a href="http://e.weibo.com/emclabschina" target="_blank">@EMC中国研究院</a></p>

@@ -1,0 +1,5 @@
+title:开源 Nginx/Tengine upstream 动态管理模块 (@王发康博客)
+url:https://github.com/SinaMSRE/lua-upstream-nginx-module&amp;aid=3328&amp;nid=84
+author:
+author_url:
+text:<p>基于 @agentzh 的已有模块进行的 patch</p>

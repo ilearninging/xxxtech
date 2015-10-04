@@ -1,0 +1,5 @@
+title:libMF 源码分析（@Book呈）
+url:http://bookc.github.io/2014/05/26/libmf-comments-in-chinese/&amp;aid=1094&amp;nid=32
+author:
+author_url:
+text:<p>libMF 是由台湾大学林智仁老师实验室开发的，一个用于推荐系统领域的矩阵分解开源库。<a href="https://github.com/bookc/libMF-comments-in-Chinese" target="_blank">注释代码地址</a></p>

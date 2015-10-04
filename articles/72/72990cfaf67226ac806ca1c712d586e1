@@ -1,0 +1,5 @@
+title:[译] Storm 入门（吴京润）
+url:http://ifeve.com/getting-started-with-storm-1/&amp;aid=776&amp;nid=24
+author:
+author_url:
+text:<p>Storm 是一个分布式的、可靠的、容错的数据流处理系统。它会把工作任务委托给不同类型的组件，每个组件负责处理一项简单特定的任务。此为第一章，<a href="http://ifeve.com/getting-started-with-storm-2/" target="_blank">第二章</a>。</p>

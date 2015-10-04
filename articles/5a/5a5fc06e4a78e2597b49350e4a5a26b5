@@ -1,0 +1,5 @@
+title:Atlas 限制后端 DB 最大连接数功能设计与实现 (基础架构快报)
+url:http://mp.weixin.qq.com/s?__biz=MjM5NzUwNDA5MA==&mid=204107851&idx=1&sn=684192dac949f0682918c4e49660bd79&amp;aid=1940&amp;nid=62
+author:
+author_url:
+text:<p>Atlas 是一个基于 MySQL 协议的数据中间件项目 <a href="https://github.com/Qihoo360/Atlas/" target="_blank">GitHub 地址</a></p>

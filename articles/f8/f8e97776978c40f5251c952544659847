@@ -1,0 +1,5 @@
+title:细看 InnoDB 数据落盘
+url:http://www.woqutech.com/?p=1459&amp;aid=1519&amp;nid=47
+author:
+author_url:
+text:<p>本文从 InnoDB 往下，看看数据从 InnoDB 的内存到真正写到存储设备的介质上到底有哪些缓冲在起作用。</p>

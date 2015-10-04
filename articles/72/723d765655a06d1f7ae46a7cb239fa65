@@ -1,0 +1,5 @@
+title:[译] 高性能服务器架构 (zhoudaxia)
+url:http://blog.csdn.net/zhoudaxia/article/details/14223755&amp;aid=1301&amp;nid=40
+author:
+author_url:
+text:<p>影响服务器性能的四大杀手：数据拷贝、环境切换、内存分配和锁竞争</p>

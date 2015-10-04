@@ -1,0 +1,5 @@
+title:《Apache Spark 源码剖析》
+url:http://www.amazon.cn/gp/product/B00U0A9L3C?ie=UTF8&camp=536&creativeASIN=B00U0A9L3C&linkCode=xm2&tag=manongio-23&amp;aid=2004&amp;nid=64
+author:
+author_url:
+text:<p>以 1.02 版本源码为切入点，着力于探寻 Spark 所要解决的主要问题及其解决办法，通过一系列精心设计的小实验来分析每一步背后的处理逻辑。</p>

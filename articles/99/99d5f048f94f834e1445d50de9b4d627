@@ -1,0 +1,5 @@
+title:《Redis 设计与实现》
+url:http://www.amazon.cn/gp/product/B00L4XHH0S/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00L4XHH0S&linkCode=as2&tag=manongio-23&amp;aid=1210&amp;nid=56
+author:<small>黄健宏</small>
+author_url:
+text:<p>全面而完整地讲解了 Redis 的内部机制与实现方式，对 Redis 的大多数单机功能以及所有多机功能的实现原理进行了介绍，展示了这些功能的核心数据结构以及关键的算法思想。</p>

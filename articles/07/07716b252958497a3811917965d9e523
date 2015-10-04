@@ -1,0 +1,5 @@
+title:[译] Redis 集群规范（@huangz1990）
+url:http://www.redisdoc.com/en/latest/topic/cluster-spec.html&amp;aid=66&amp;nid=5
+author:
+author_url:
+text:<p>Redis Cluster 从来都是只闻楼梯响，正式版转眼又从 Redis 2.8 跳票到 3.0。不过 R 家的东西有个好处就是原理简单明了，你可以很容易推导出它在各场景下的行为，不会有别家那种黑盒的抓瞎感。via <a href="http://weibo.com/calvin1978" target="_blank">@江南白衣Calvin</a> <a href="http://redis.io/topics/cluster-spec" target="_blank">原文地址</a></p>

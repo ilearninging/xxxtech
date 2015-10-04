@@ -1,0 +1,5 @@
+title:腾讯大规模 Hadoop 集群实践（翟艳堂）
+url:http://www.csdn.net/article/2014-02-19/2818473-Tencent-Hadoop&amp;aid=501&amp;nid=21
+author:
+author_url:
+text:<p>TDW 是腾讯最大的离线数据处理平台。本文主要从需求、挑战、方案和未来计划等方面，介绍了 TDW 在建设单个大规模集群中采取的 JobTracker 分散化和 NameNode 高可用两个优化方案。</p>

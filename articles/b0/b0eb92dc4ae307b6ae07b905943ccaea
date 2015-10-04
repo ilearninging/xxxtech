@@ -1,0 +1,5 @@
+title:[译] Go 语言是如何处理栈的 (Tony Bai)
+url:http://tonybai.com/2014/11/05/how-stacks-are-handled-in-go/&amp;aid=1599&amp;nid=50
+author:
+author_url:
+text:<p>Go 运行时会试图按需为 goroutine 提供它们所需要的栈空间，而不是为每个 goroutine 分配一个固定大小的栈空间。</p>

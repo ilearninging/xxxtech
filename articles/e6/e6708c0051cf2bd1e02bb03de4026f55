@@ -1,0 +1,5 @@
+title:Spark GraphX 在淘宝的实践（黄明、吴炜）
+url:http://www.csdn.net/article/2014-08-07/2821097&amp;aid=1329&amp;nid=41
+author:
+author_url:
+text:<p>由于 Spark GraphX 性能良好，又有丰富的功能和运算符，能在海量数据上自如运行复杂的图算法，淘宝尝试将它作为分布式图计算平台，进行各种算法尝试和生产应用。</p>

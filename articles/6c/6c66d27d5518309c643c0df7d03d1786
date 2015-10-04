@@ -1,0 +1,5 @@
+title:分布式系统原理——日志技术 Redo Log (studentdeng)
+url:http://studentdeng.github.io/blog/2014/10/13/log-system/&amp;aid=1528&amp;nid=48
+author:
+author_url:
+text:<p>本文介绍了日志技术的基本原理概念，并通过 Redis 介绍了生产环境中的实现方法。</p>

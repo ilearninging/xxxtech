@@ -1,0 +1,5 @@
+title:存储性能瓶颈的成因、定位与排查（@汤宝儿小圆闹）
+url:https://community.emc.com/docs/DOC-34921&amp;aid=1202&amp;nid=35
+author:
+author_url:
+text:<p>本文详细阐述存储瓶颈发生最常见的四种情况，可能发生的拥塞点，需要监控的参数指标，以及部署存储系统的最佳实践。</p>

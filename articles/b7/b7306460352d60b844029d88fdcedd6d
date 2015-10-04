@@ -1,0 +1,5 @@
+title:深入剖析 redis RDB 持久化策略（@郑思愿daoluan）
+url:http://daoluan.net/blog/decode-redis-rdb-persistence/&amp;aid=888&amp;nid=26
+author:
+author_url:
+text:<p>redis 提供两种持久化方式：RDB 和 AOF。本篇主要讲的是 RDB 持久化，了解 RDB 的数据保存结构和运作机制。</p>

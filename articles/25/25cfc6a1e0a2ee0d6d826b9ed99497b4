@@ -1,0 +1,5 @@
+title:JavaScript 高级对象 (Bjorn Tipling)
+url:http://bjorn.tipling.com/advanced-objects-in-javascript&amp;aid=1428&amp;nid=44
+author:
+author_url:
+text:<p>本文介绍了 JavaScript 对象的一些高级特性，包括 getters & setters、`Object.defineProperty`、`Object.create`、对象的密封、冻结和阻止扩展以及 ES6 中的 `proxy` 和 `Symbol` 等。via <b>@F2EWeekly</b></p>

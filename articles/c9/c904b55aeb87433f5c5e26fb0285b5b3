@@ -1,0 +1,5 @@
+title:[译] 理解 Android 中垃圾回收日志信息 (@Android月)
+url:http://droidyue.com/blog/2014/11/08/understanding-garbage-collection-output-messages-in-android/&amp;aid=1596&amp;nid=50
+author:
+author_url:
+text:<p>本文将具体介绍日志信息每一部分的含义，帮助大家更好地了解垃圾回收的运行情况。</p>

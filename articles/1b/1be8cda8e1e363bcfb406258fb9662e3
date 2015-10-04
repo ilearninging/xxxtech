@@ -1,0 +1,5 @@
+title:MySQL 加锁处理分析（@何_登成）
+url:http://hedengcheng.com/?p=771&amp;aid=292&amp;nid=14
+author:
+author_url:
+text:<p>详细分析了 MySQL 加锁的原理以及各种场景下的加锁规则，以及死锁的原理及分析的方法。</p>

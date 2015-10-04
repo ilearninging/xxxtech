@@ -1,0 +1,5 @@
+title:[译] 百万用户时尚分享网站 feed 系统扩展实践（@CSDN云计算）
+url:http://www.csdn.net/article/2013-11-07/2817430-design-decisions-for-scaling-your-high-traffic-feeds&amp;aid=176&amp;nid=10
+author:
+author_url:
+text:<p>Fashiolista 作为一个以社交、分享为主的在线时尚交流网站，其 feed 系统占据了网站的核心架构，其扩展性至关重要。网站创始人兼 CTO 撰写博客，分享了自家网站 feed 系统扩展的经验。<a href="http://highscalability.com/blog/2013/10/28/design-decisions-for-scaling-your-high-traffic-feeds.html" target="_blank">原文链接</a></p>

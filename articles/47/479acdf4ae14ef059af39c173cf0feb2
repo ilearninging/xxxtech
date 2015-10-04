@@ -1,0 +1,5 @@
+title:[译] 面向低延迟/高吞吐量数据库（GraphDB）的 Linux 内存管理优化（51CTO）
+url:http://os.51cto.com/art/201310/412638.htm&amp;aid=65&amp;nid=5
+author:
+author_url:
+text:<p>以前对于 NUMA 的认知，停留在 NUMA 架构下内存访问延时不对等，读了这篇文章后，才知道 NUMA 还有 Zone Reclaim 的问题。此文的几篇参考资料都相当不错！via <a href="http://weibo.com/u/2216172320" target="_blank">@何_登成</a> 同时也感谢 <a href="http://weibo.com/tchuba" target="_blank">@淘宝褚霸</a> 的推荐 <a href="http://engineering.linkedin.com/performance/optimizing-linux-memory-management-low-latency-high-throughput-databases" target="_blank">原文地址</a></p>

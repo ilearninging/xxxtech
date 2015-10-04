@@ -1,0 +1,5 @@
+title:PHP 真正多线程的使用（@张宴）
+url:http://blog.s135.com/pthreads/&amp;aid=306&amp;nid=14
+author:
+author_url:
+text:<p>PHP 5.3 以上版本，使用 pthreads PHP 扩展，可以使 PHP 真正地支持多线程。</p>

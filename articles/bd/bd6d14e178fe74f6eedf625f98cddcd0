@@ -1,0 +1,5 @@
+title:vitess - YouTube 出品的开源分布式 MySQL 工具集
+url:https://github.com/youtube/vitess&amp;aid=785&amp;nid=24
+author:
+author_url:
+text:<p>自动分片存储 MySQL 数据表，将单个 SQL 查询改写为分布式发送到多个 MySQL Server 上，支持行缓存，支持复制容错，已用于 YouTube 生产环境，文档有待完善。via <a href="http://weibo.com/209393030" target="_blank">@KissDev</a></p>

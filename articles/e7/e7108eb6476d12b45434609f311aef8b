@@ -1,0 +1,5 @@
+title:[译] Facebook 的数据仓库是如何扩展到 300PB 的 (@DataScientist)
+url:http://yanbohappy.sinaapp.com/?p=478&amp;aid=1710&amp;nid=54
+author:
+author_url:
+text:<p>Facebook 基于 Hive 的数据仓库中存储了超过 300PB 的数据，并且以每日新增 600TB 的速度增长。</p>
