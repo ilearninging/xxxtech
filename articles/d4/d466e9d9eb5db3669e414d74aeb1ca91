@@ -1,5 +1,1 @@
-title:[译] Cassandra - 一个分散的结构化存储系统（2010）
-url:http://www.dbthink.com/archives/372&amp;aid=101&amp;nid=7
-author:
-author_url:
-text:<p>本文翻译自 Facebook 员工的<a href="http://www.cs.cornell.edu/Projects/ladis2009/papers/Lakshman-ladis2009.PDF" target="_blank">论文</a>，两位作者详细介绍了 Cassandra 的系统架构、设计初衷、设计应用时使用到的相关技术以及设计/实现/使用过程中得到的经验教训。译者：<a href="http://weibo.com/u/1765260200" target="_blank">jametong</a></p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u8bd1] Cassandra - \u4e00\u4e2a\u5206\u6563\u7684\u7ed3\u6784\u5316\u5b58\u50a8\u7cfb\u7edf\uff082010\uff09","url":"http:\/\/www.dbthink.com\/archives\/372&amp;aid=101&amp;nid=7","author":null,"text":"<p>\u672c\u6587\u7ffb\u8bd1\u81ea Facebook \u5458\u5de5\u7684<a href=\"http:\/\/www.cs.cornell.edu\/Projects\/ladis2009\/papers\/Lakshman-ladis2009.PDF\" target=\"_blank\">\u8bba\u6587<\/a>\uff0c\u4e24\u4f4d\u4f5c\u8005\u8be6\u7ec6\u4ecb\u7ecd\u4e86 Cassandra \u7684\u7cfb\u7edf\u67b6\u6784\u3001\u8bbe\u8ba1\u521d\u8877\u3001\u8bbe\u8ba1\u5e94\u7528\u65f6\u4f7f\u7528\u5230\u7684\u76f8\u5173\u6280\u672f\u4ee5\u53ca\u8bbe\u8ba1\/\u5b9e\u73b0\/\u4f7f\u7528\u8fc7\u7a0b\u4e2d\u5f97\u5230\u7684\u7ecf\u9a8c\u6559\u8bad\u3002\u8bd1\u8005\uff1a<a href=\"http:\/\/weibo.com\/u\/1765260200\" target=\"_blank\">jametong<\/a><\/p>"}

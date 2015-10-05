@@ -1,5 +1,1 @@
-title:Golang 1.4 net/rpc client 源码解析 (毛剑)
-url:http://dev.cmcm.com/archives/320&amp;aid=2010&amp;nid=64
-author:
-author_url:
-text:<p>net/rpc 是 Golang 标准库提供的 rpc 框架</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"Golang 1.4 net\/rpc client \u6e90\u7801\u89e3\u6790 (\u6bdb\u5251)","url":"http:\/\/dev.cmcm.com\/archives\/320&amp;aid=2010&amp;nid=64","author":null,"text":"<p>net\/rpc \u662f Golang \u6807\u51c6\u5e93\u63d0\u4f9b\u7684 rpc \u6846\u67b6<\/p>"}

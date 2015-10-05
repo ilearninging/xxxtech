@@ -1,5 +1,1 @@
-title:[译] 读懂 Java 中的 Socket 编程 (@Android月)
-url:http://droidyue.com/blog/2015/03/08/sockets-programming-in-java/&amp;aid=1942&amp;nid=62
-author:
-author_url:
-text:<p>基于 TCP/IP 的 Socket 编程，编写一个客户端/服务器程序。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"[\u8bd1] \u8bfb\u61c2 Java \u4e2d\u7684 Socket \u7f16\u7a0b (@Android\u6708)","url":"http:\/\/droidyue.com\/blog\/2015\/03\/08\/sockets-programming-in-java\/&amp;aid=1942&amp;nid=62","author":null,"text":"<p>\u57fa\u4e8e TCP\/IP \u7684 Socket \u7f16\u7a0b\uff0c\u7f16\u5199\u4e00\u4e2a\u5ba2\u6237\u7aef\/\u670d\u52a1\u5668\u7a0b\u5e8f\u3002<\/p>"}

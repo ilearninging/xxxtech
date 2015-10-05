@@ -1,5 +1,1 @@
-title:英特尔 EDISON 编程环境间的数据分享 (英特尔开发人员专区)
-url:https://software.intel.com/zh-cn/blogs/2015/05/05/efficient-data-sharing-using-interrupts-on-intel-edison?utm_source=Manong&utm_medium=Newsletter&utm_campaign=IoT_PRC_Q315_Manong&amp;aid=3648&amp;nid=88
-author:
-author_url:
-text:<p>探讨发布程序-订阅程序模式，这种模式可使运行于 Linux 的不同程序之间实现数据共享。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"\u82f1\u7279\u5c14 EDISON \u7f16\u7a0b\u73af\u5883\u95f4\u7684\u6570\u636e\u5206\u4eab (\u82f1\u7279\u5c14\u5f00\u53d1\u4eba\u5458\u4e13\u533a)","url":"https:\/\/software.intel.com\/zh-cn\/blogs\/2015\/05\/05\/efficient-data-sharing-using-interrupts-on-intel-edison?utm_source=Manong&utm_medium=Newsletter&utm_campaign=IoT_PRC_Q315_Manong&amp;aid=3648&amp;nid=88","author":null,"text":"<p>\u63a2\u8ba8\u53d1\u5e03\u7a0b\u5e8f-\u8ba2\u9605\u7a0b\u5e8f\u6a21\u5f0f\uff0c\u8fd9\u79cd\u6a21\u5f0f\u53ef\u4f7f\u8fd0\u884c\u4e8e Linux \u7684\u4e0d\u540c\u7a0b\u5e8f\u4e4b\u95f4\u5b9e\u73b0\u6570\u636e\u5171\u4eab\u3002<\/p>"}

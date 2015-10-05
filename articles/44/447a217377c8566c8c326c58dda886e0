@@ -1,5 +1,1 @@
-title:HTTP 请求的 TCP 瓶颈分析 (@碧海山城)
-url:http://bhsc881114.github.io/2015/06/23/HTTP%E8%AF%B7%E6%B1%82%E7%9A%84TCP%E7%93%B6%E9%A2%88%E5%88%86%E6%9E%90/&amp;aid=2694&amp;nid=77
-author:
-author_url:
-text:<p>TCP 对 HTTP 的性能影响分析</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"HTTP \u8bf7\u6c42\u7684 TCP \u74f6\u9888\u5206\u6790 (@\u78a7\u6d77\u5c71\u57ce)","url":"http:\/\/bhsc881114.github.io\/2015\/06\/23\/HTTP%E8%AF%B7%E6%B1%82%E7%9A%84TCP%E7%93%B6%E9%A2%88%E5%88%86%E6%9E%90\/&amp;aid=2694&amp;nid=77","author":null,"text":"<p>TCP \u5bf9 HTTP \u7684\u6027\u80fd\u5f71\u54cd\u5206\u6790<\/p>"}

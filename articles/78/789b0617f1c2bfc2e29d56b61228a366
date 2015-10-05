@@ -1,5 +1,1 @@
-title:新浪微博 Redis 实战经验分享
-url:http://www.xdata.me/?p=301&amp;aid=50&amp;nid=4
-author:
-author_url:
-text:<p>新浪微博作为国内外比较大的 Redis 使用平台，作者<a href="http://weibo.com/423583469" target="_blank">@启盼cobain</a>从应用角度分享了 Redis 平台使用的一些心得体会。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u65b0\u6d6a\u5fae\u535a Redis \u5b9e\u6218\u7ecf\u9a8c\u5206\u4eab","url":"http:\/\/www.xdata.me\/?p=301&amp;aid=50&amp;nid=4","author":null,"text":"<p>\u65b0\u6d6a\u5fae\u535a\u4f5c\u4e3a\u56fd\u5185\u5916\u6bd4\u8f83\u5927\u7684 Redis \u4f7f\u7528\u5e73\u53f0\uff0c\u4f5c\u8005<a href=\"http:\/\/weibo.com\/423583469\" target=\"_blank\">@\u542f\u76fccobain<\/a>\u4ece\u5e94\u7528\u89d2\u5ea6\u5206\u4eab\u4e86 Redis \u5e73\u53f0\u4f7f\u7528\u7684\u4e00\u4e9b\u5fc3\u5f97\u4f53\u4f1a\u3002<\/p>"}

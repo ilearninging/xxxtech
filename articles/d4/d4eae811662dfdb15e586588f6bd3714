@@ -1,5 +1,1 @@
-title:亿级用户下的新浪微博平台架构 (@卫向军_微博)
-url:http://mp.weixin.qq.com/s?__biz=MzA4ODAyOTI4Ng==&mid=201320389&idx=1&sn=47eadf22183348c6982e24bf66287ef1&amp;aid=1830&amp;nid=59
-author:
-author_url:
-text:<p>微博平台第一代架构为 LAMP 架构，数据库使用的 MyISAM，后台用的 PHP，缓存为 Memcache。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u4ebf\u7ea7\u7528\u6237\u4e0b\u7684\u65b0\u6d6a\u5fae\u535a\u5e73\u53f0\u67b6\u6784 (@\u536b\u5411\u519b_\u5fae\u535a)","url":"http:\/\/mp.weixin.qq.com\/s?__biz=MzA4ODAyOTI4Ng==&mid=201320389&idx=1&sn=47eadf22183348c6982e24bf66287ef1&amp;aid=1830&amp;nid=59","author":null,"text":"<p>\u5fae\u535a\u5e73\u53f0\u7b2c\u4e00\u4ee3\u67b6\u6784\u4e3a LAMP \u67b6\u6784\uff0c\u6570\u636e\u5e93\u4f7f\u7528\u7684 MyISAM\uff0c\u540e\u53f0\u7528\u7684 PHP\uff0c\u7f13\u5b58\u4e3a Memcache\u3002<\/p>"}

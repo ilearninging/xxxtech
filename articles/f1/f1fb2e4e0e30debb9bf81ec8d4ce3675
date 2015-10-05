@@ -1,5 +1,1 @@
-title:gevent 程序员指南（Gevent社区）
-url:http://xlambda.com/gevent-tutorial/&amp;aid=34&amp;nid=3
-author:
-author_url:
-text:<p>gevent 是一个基于 libev 的高性能 Python 并发库，它为各种并发和网络相关任务提供了整洁的 API。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"gevent \u7a0b\u5e8f\u5458\u6307\u5357\uff08Gevent\u793e\u533a\uff09","url":"http:\/\/xlambda.com\/gevent-tutorial\/&amp;aid=34&amp;nid=3","author":null,"text":"<p>gevent \u662f\u4e00\u4e2a\u57fa\u4e8e libev \u7684\u9ad8\u6027\u80fd Python \u5e76\u53d1\u5e93\uff0c\u5b83\u4e3a\u5404\u79cd\u5e76\u53d1\u548c\u7f51\u7edc\u76f8\u5173\u4efb\u52a1\u63d0\u4f9b\u4e86\u6574\u6d01\u7684 API\u3002<\/p>"}

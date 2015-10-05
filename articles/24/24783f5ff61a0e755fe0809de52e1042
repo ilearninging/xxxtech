@@ -1,5 +1,1 @@
-title:HTTP 接口设计指北 (@捣蛋大魔王)
-url:https://github.com/bolasblack/http-api-guide&amp;aid=2167&amp;nid=68
-author:
-author_url:
-text:<p>本文档主要目的是为设计接口时提供建议，使大家不必重复造 HTTP 协议已经完成的轮子。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"HTTP \u63a5\u53e3\u8bbe\u8ba1\u6307\u5317 (@\u6363\u86cb\u5927\u9b54\u738b)","url":"https:\/\/github.com\/bolasblack\/http-api-guide&amp;aid=2167&amp;nid=68","author":null,"text":"<p>\u672c\u6587\u6863\u4e3b\u8981\u76ee\u7684\u662f\u4e3a\u8bbe\u8ba1\u63a5\u53e3\u65f6\u63d0\u4f9b\u5efa\u8bae\uff0c\u4f7f\u5927\u5bb6\u4e0d\u5fc5\u91cd\u590d\u9020 HTTP \u534f\u8bae\u5df2\u7ecf\u5b8c\u6210\u7684\u8f6e\u5b50\u3002<\/p>"}

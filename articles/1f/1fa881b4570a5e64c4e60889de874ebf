@@ -1,5 +1,1 @@
-title:WhatsApp 架构设计（最新版）
-url:http://highscalability.com/blog/2014/3/31/how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an.html&amp;aid=868&amp;nid=56
-author:
-author_url:
-text:<p>来自 High Scalability。相较<a href="http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html" target="_blank">上篇</a>，这篇内容更新、更全。<a href="http://www.csdn.net/article/2014-04-04/2819158-how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an" target="_blank">译文</a></p>
+{"category":"\u6700\u53d7\u6b22\u8fce\u7684\u6280\u672f\u5e72\u8d27\uff08\u7a0b\u5e8f\u8bbe\u8ba1\u7bc7\uff09","title":"WhatsApp \u67b6\u6784\u8bbe\u8ba1\uff08\u6700\u65b0\u7248\uff09","url":"http:\/\/highscalability.com\/blog\/2014\/3\/31\/how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an.html&amp;aid=868&amp;nid=56","author":null,"text":"<p>\u6765\u81ea High Scalability\u3002\u76f8\u8f83<a href=\"http:\/\/highscalability.com\/blog\/2014\/2\/26\/the-whatsapp-architecture-facebook-bought-for-19-billion.html\" target=\"_blank\">\u4e0a\u7bc7<\/a>\uff0c\u8fd9\u7bc7\u5185\u5bb9\u66f4\u65b0\u3001\u66f4\u5168\u3002<a href=\"http:\/\/www.csdn.net\/article\/2014-04-04\/2819158-how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an\" target=\"_blank\">\u8bd1\u6587<\/a><\/p>"}

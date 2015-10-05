@@ -1,5 +1,1 @@
-title:Objective-C 对象模型及应用（@唐巧_boy）
-url:http://blog.devtang.com/blog/2013/10/15/objective-c-object-model/&amp;aid=83&amp;nid=6
-author:
-author_url:
-text:<p>本文主要介绍 Objective-C 对象模型的实现细节，以及 Objective-C 对象模型中对 isa swizzling 和 method swizzling 的支持。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"Objective-C \u5bf9\u8c61\u6a21\u578b\u53ca\u5e94\u7528\uff08@\u5510\u5de7_boy\uff09","url":"http:\/\/blog.devtang.com\/blog\/2013\/10\/15\/objective-c-object-model\/&amp;aid=83&amp;nid=6","author":null,"text":"<p>\u672c\u6587\u4e3b\u8981\u4ecb\u7ecd Objective-C \u5bf9\u8c61\u6a21\u578b\u7684\u5b9e\u73b0\u7ec6\u8282\uff0c\u4ee5\u53ca Objective-C \u5bf9\u8c61\u6a21\u578b\u4e2d\u5bf9 isa swizzling \u548c method swizzling \u7684\u652f\u6301\u3002<\/p>"}

@@ -1,5 +1,1 @@
-title:分布式文件系统 FastDFS 设计原理及技术架构（@mysqlops）
-url:http://www.zhdba.com/mysqlops/2014/03/07/fastdfs-arc/&amp;aid=759&amp;nid=24
-author:
-author_url:
-text:<p>FastDFS 是一个开源的轻量级分布式文件系统，由跟踪服务器、存储服务器和客户端三个部分组成，主要解决了海量数据存储问题，特别适合以中小文件为载体的在线服务。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u5206\u5e03\u5f0f\u6587\u4ef6\u7cfb\u7edf FastDFS \u8bbe\u8ba1\u539f\u7406\u53ca\u6280\u672f\u67b6\u6784\uff08@mysqlops\uff09","url":"http:\/\/www.zhdba.com\/mysqlops\/2014\/03\/07\/fastdfs-arc\/&amp;aid=759&amp;nid=24","author":null,"text":"<p>FastDFS \u662f\u4e00\u4e2a\u5f00\u6e90\u7684\u8f7b\u91cf\u7ea7\u5206\u5e03\u5f0f\u6587\u4ef6\u7cfb\u7edf\uff0c\u7531\u8ddf\u8e2a\u670d\u52a1\u5668\u3001\u5b58\u50a8\u670d\u52a1\u5668\u548c\u5ba2\u6237\u7aef\u4e09\u4e2a\u90e8\u5206\u7ec4\u6210\uff0c\u4e3b\u8981\u89e3\u51b3\u4e86\u6d77\u91cf\u6570\u636e\u5b58\u50a8\u95ee\u9898\uff0c\u7279\u522b\u9002\u5408\u4ee5\u4e2d\u5c0f\u6587\u4ef6\u4e3a\u8f7d\u4f53\u7684\u5728\u7ebf\u670d\u52a1\u3002<\/p>"}

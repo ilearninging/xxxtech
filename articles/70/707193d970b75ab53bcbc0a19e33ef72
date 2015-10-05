@@ -1,5 +1,1 @@
-title:使用 HAProxy、PHP、Redis 和 MySQL 处理每周 10 亿次请求 (Antoni Orfin)
-url:http://highscalability.com/blog/2014/8/11/the-easy-way-of-building-a-growing-startup-architecture-usin.html&amp;aid=1328&amp;nid=41
-author:
-author_url:
-text:<p>简单实用的架构设计案例，来自 High Scalability。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u4f7f\u7528 HAProxy\u3001PHP\u3001Redis \u548c MySQL \u5904\u7406\u6bcf\u5468 10 \u4ebf\u6b21\u8bf7\u6c42 (Antoni Orfin)","url":"http:\/\/highscalability.com\/blog\/2014\/8\/11\/the-easy-way-of-building-a-growing-startup-architecture-usin.html&amp;aid=1328&amp;nid=41","author":null,"text":"<p>\u7b80\u5355\u5b9e\u7528\u7684\u67b6\u6784\u8bbe\u8ba1\u6848\u4f8b\uff0c\u6765\u81ea High Scalability\u3002<\/p>"}

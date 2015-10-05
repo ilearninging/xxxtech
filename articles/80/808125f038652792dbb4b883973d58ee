@@ -1,5 +1,1 @@
-title:[译] 通过示例学习 Git 内部构造（@夏永锋_SJTU）
-url:http://youngsterxyf.github.io/2013/09/28/learning-git-internals-by-example/&amp;aid=93&amp;nid=6
-author:
-author_url:
-text:<p>作者阐述了一路走来学到的关于 Git 的关键信息，有助于你了解 Git 与其他源码控制工具的区别。<a href="http://teohm.github.io/blog/2011/05/30/learning-git-internals-by-example/" target="_blank">原文地址</a></p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"[\u8bd1] \u901a\u8fc7\u793a\u4f8b\u5b66\u4e60 Git \u5185\u90e8\u6784\u9020\uff08@\u590f\u6c38\u950b_SJTU\uff09","url":"http:\/\/youngsterxyf.github.io\/2013\/09\/28\/learning-git-internals-by-example\/&amp;aid=93&amp;nid=6","author":null,"text":"<p>\u4f5c\u8005\u9610\u8ff0\u4e86\u4e00\u8def\u8d70\u6765\u5b66\u5230\u7684\u5173\u4e8e Git \u7684\u5173\u952e\u4fe1\u606f\uff0c\u6709\u52a9\u4e8e\u4f60\u4e86\u89e3 Git \u4e0e\u5176\u4ed6\u6e90\u7801\u63a7\u5236\u5de5\u5177\u7684\u533a\u522b\u3002<a href=\"http:\/\/teohm.github.io\/blog\/2011\/05\/30\/learning-git-internals-by-example\/\" target=\"_blank\">\u539f\u6587\u5730\u5740<\/a><\/p>"}

@@ -1,5 +1,1 @@
-title:图片服务架构演进（孔凡勇）
-url:http://blog.aliyun.com/967&amp;aid=1212&amp;nid=56
-author:
-author_url:
-text:<p>从传统互联网的 Web 1.0，历经 Web 2.0 时代以及发展到现在的 Web 3.0，随着图片存储规模的增加，图片服务器的架构也在逐渐发生变化。（感谢 <a href="http://weibo.com/p/1005051750122417" target="_blank">@aliyun-云狄</a> 投稿）</p>
+{"category":"\u6700\u53d7\u6b22\u8fce\u7684\u6280\u672f\u5e72\u8d27\uff08\u7a0b\u5e8f\u8bbe\u8ba1\u7bc7\uff09","title":"\u56fe\u7247\u670d\u52a1\u67b6\u6784\u6f14\u8fdb\uff08\u5b54\u51e1\u52c7\uff09","url":"http:\/\/blog.aliyun.com\/967&amp;aid=1212&amp;nid=56","author":null,"text":"<p>\u4ece\u4f20\u7edf\u4e92\u8054\u7f51\u7684 Web 1.0\uff0c\u5386\u7ecf Web 2.0 \u65f6\u4ee3\u4ee5\u53ca\u53d1\u5c55\u5230\u73b0\u5728\u7684 Web 3.0\uff0c\u968f\u7740\u56fe\u7247\u5b58\u50a8\u89c4\u6a21\u7684\u589e\u52a0\uff0c\u56fe\u7247\u670d\u52a1\u5668\u7684\u67b6\u6784\u4e5f\u5728\u9010\u6e10\u53d1\u751f\u53d8\u5316\u3002\uff08\u611f\u8c22 <a href=\"http:\/\/weibo.com\/p\/1005051750122417\" target=\"_blank\">@aliyun-\u4e91\u72c4<\/a> \u6295\u7a3f\uff09<\/p>"}

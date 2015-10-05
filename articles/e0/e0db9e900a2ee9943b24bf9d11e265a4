@@ -1,5 +1,1 @@
-title:Java Lambda 深度研究 (@colobu)
-url:http://colobu.com/2014/09/05/java-lambdas-hacking/&amp;aid=1425&amp;nid=44
-author:
-author_url:
-text:<p>本文将深入研究 Java 8 中的 Lambda 特性以及 Stream 接口等，讨论一些深层次的技术细节。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"Java Lambda \u6df1\u5ea6\u7814\u7a76 (@colobu)","url":"http:\/\/colobu.com\/2014\/09\/05\/java-lambdas-hacking\/&amp;aid=1425&amp;nid=44","author":null,"text":"<p>\u672c\u6587\u5c06\u6df1\u5165\u7814\u7a76 Java 8 \u4e2d\u7684 Lambda \u7279\u6027\u4ee5\u53ca Stream \u63a5\u53e3\u7b49\uff0c\u8ba8\u8bba\u4e00\u4e9b\u6df1\u5c42\u6b21\u7684\u6280\u672f\u7ec6\u8282\u3002<\/p>"}

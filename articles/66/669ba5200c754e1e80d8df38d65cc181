@@ -1,5 +1,1 @@
-title:[视频] Sohu 邮箱的 Python 经验分享（彭一）
-url:http://www.infoq.com/cn/presentations/sohu-mailbox-python-experience&amp;aid=53&amp;nid=4
-author:
-author_url:
-text:<p>搜狐邮箱是国内最大的 Python 应用之一，视频中分享了 Python 在搜狐邮箱的使用经验，主要包括：优雅地发布 Python 项目、优秀的 Web 框架——Tornado、加速你的 Python 代码和简化你的 C 代码。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u89c6\u9891] Sohu \u90ae\u7bb1\u7684 Python \u7ecf\u9a8c\u5206\u4eab\uff08\u5f6d\u4e00\uff09","url":"http:\/\/www.infoq.com\/cn\/presentations\/sohu-mailbox-python-experience&amp;aid=53&amp;nid=4","author":null,"text":"<p>\u641c\u72d0\u90ae\u7bb1\u662f\u56fd\u5185\u6700\u5927\u7684 Python \u5e94\u7528\u4e4b\u4e00\uff0c\u89c6\u9891\u4e2d\u5206\u4eab\u4e86 Python \u5728\u641c\u72d0\u90ae\u7bb1\u7684\u4f7f\u7528\u7ecf\u9a8c\uff0c\u4e3b\u8981\u5305\u62ec\uff1a\u4f18\u96c5\u5730\u53d1\u5e03 Python \u9879\u76ee\u3001\u4f18\u79c0\u7684 Web \u6846\u67b6\u2014\u2014Tornado\u3001\u52a0\u901f\u4f60\u7684 Python \u4ee3\u7801\u548c\u7b80\u5316\u4f60\u7684 C \u4ee3\u7801\u3002<\/p>"}

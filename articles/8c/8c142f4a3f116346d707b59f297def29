@@ -1,5 +1,1 @@
-title:SEAndroid 安全机制简要介绍和学习计划（@罗升阳）
-url:http://blog.csdn.net/luoshengyang/article/details/35392905&amp;aid=1214&amp;nid=37
-author:
-author_url:
-text:<p>从 4.3 开始，Android 引入了 SEAndroid 安全机制来加强系统安全性。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"SEAndroid \u5b89\u5168\u673a\u5236\u7b80\u8981\u4ecb\u7ecd\u548c\u5b66\u4e60\u8ba1\u5212\uff08@\u7f57\u5347\u9633\uff09","url":"http:\/\/blog.csdn.net\/luoshengyang\/article\/details\/35392905&amp;aid=1214&amp;nid=37","author":null,"text":"<p>\u4ece 4.3 \u5f00\u59cb\uff0cAndroid \u5f15\u5165\u4e86 SEAndroid \u5b89\u5168\u673a\u5236\u6765\u52a0\u5f3a\u7cfb\u7edf\u5b89\u5168\u6027\u3002<\/p>"}

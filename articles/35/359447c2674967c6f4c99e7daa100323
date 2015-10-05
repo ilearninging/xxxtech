@@ -1,5 +1,1 @@
-title:PHP 代码重构实战 (Patkos Csaba)
-url:http://code.tutsplus.com/tutorials/refactoring-legacy-code-part-1-the-golden-master--cms-20331&amp;aid=914&amp;nid=27
-author:
-author_url:
-text:<p>重构代码来自真实项目，此为第一部分，<a href="http://code.tutsplus.com/tutorials/refactoring-legacy-code-part-2-magic-strings-constants--cms-20527" target="_blank">第二部分</a>。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"PHP \u4ee3\u7801\u91cd\u6784\u5b9e\u6218 (Patkos Csaba)","url":"http:\/\/code.tutsplus.com\/tutorials\/refactoring-legacy-code-part-1-the-golden-master--cms-20331&amp;aid=914&amp;nid=27","author":null,"text":"<p>\u91cd\u6784\u4ee3\u7801\u6765\u81ea\u771f\u5b9e\u9879\u76ee\uff0c\u6b64\u4e3a\u7b2c\u4e00\u90e8\u5206\uff0c<a href=\"http:\/\/code.tutsplus.com\/tutorials\/refactoring-legacy-code-part-2-magic-strings-constants--cms-20527\" target=\"_blank\">\u7b2c\u4e8c\u90e8\u5206<\/a>\u3002<\/p>"}

@@ -1,5 +1,1 @@
-title:分布式系统的事务处理（@左耳朵耗子）
-url:http://coolshell.cn/articles/10910.html&amp;aid=423&amp;nid=19
-author:
-author_url:
-text:<p>本文系统地介绍了用于处理分布式数据一致性的技术模型，如：Master-Slave、Master-Master、2PC/3PC、经典的将军问题、Paxos 以及 Dynamo 的 NRW 和 VectorClock 的模型。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u5206\u5e03\u5f0f\u7cfb\u7edf\u7684\u4e8b\u52a1\u5904\u7406\uff08@\u5de6\u8033\u6735\u8017\u5b50\uff09","url":"http:\/\/coolshell.cn\/articles\/10910.html&amp;aid=423&amp;nid=19","author":null,"text":"<p>\u672c\u6587\u7cfb\u7edf\u5730\u4ecb\u7ecd\u4e86\u7528\u4e8e\u5904\u7406\u5206\u5e03\u5f0f\u6570\u636e\u4e00\u81f4\u6027\u7684\u6280\u672f\u6a21\u578b\uff0c\u5982\uff1aMaster-Slave\u3001Master-Master\u30012PC\/3PC\u3001\u7ecf\u5178\u7684\u5c06\u519b\u95ee\u9898\u3001Paxos \u4ee5\u53ca Dynamo \u7684 NRW \u548c VectorClock \u7684\u6a21\u578b\u3002<\/p>"}

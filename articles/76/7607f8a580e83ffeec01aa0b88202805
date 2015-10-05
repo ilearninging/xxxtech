@@ -1,5 +1,1 @@
-title:MySQL 5.7：短连接优化 (zhaiwx1987)
-url:http://mysqllover.com/?p=1151&amp;aid=1698&amp;nid=53
-author:
-author_url:
-text:<p>尽管比较罕见，但某些场景还是存在着短连接，即用户执行完请求后，很快断开会话。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"MySQL 5.7\uff1a\u77ed\u8fde\u63a5\u4f18\u5316 (zhaiwx1987)","url":"http:\/\/mysqllover.com\/?p=1151&amp;aid=1698&amp;nid=53","author":null,"text":"<p>\u5c3d\u7ba1\u6bd4\u8f83\u7f55\u89c1\uff0c\u4f46\u67d0\u4e9b\u573a\u666f\u8fd8\u662f\u5b58\u5728\u7740\u77ed\u8fde\u63a5\uff0c\u5373\u7528\u6237\u6267\u884c\u5b8c\u8bf7\u6c42\u540e\uff0c\u5f88\u5feb\u65ad\u5f00\u4f1a\u8bdd\u3002<\/p>"}

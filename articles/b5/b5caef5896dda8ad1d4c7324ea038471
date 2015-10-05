@@ -1,5 +1,1 @@
-title:SSL/TLS 协议运行机制的概述（@ruanyf）
-url:http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html&amp;aid=480&amp;nid=20
-author:
-author_url:
-text:<p>本文简要介绍 SSL/TLS 协议的运行机制，重点是设计思想和运行过程，不涉及具体的实现细节。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"SSL\/TLS \u534f\u8bae\u8fd0\u884c\u673a\u5236\u7684\u6982\u8ff0\uff08@ruanyf\uff09","url":"http:\/\/www.ruanyifeng.com\/blog\/2014\/02\/ssl_tls.html&amp;aid=480&amp;nid=20","author":null,"text":"<p>\u672c\u6587\u7b80\u8981\u4ecb\u7ecd SSL\/TLS \u534f\u8bae\u7684\u8fd0\u884c\u673a\u5236\uff0c\u91cd\u70b9\u662f\u8bbe\u8ba1\u601d\u60f3\u548c\u8fd0\u884c\u8fc7\u7a0b\uff0c\u4e0d\u6d89\u53ca\u5177\u4f53\u7684\u5b9e\u73b0\u7ec6\u8282\u3002<\/p>"}

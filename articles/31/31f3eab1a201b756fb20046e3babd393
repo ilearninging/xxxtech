@@ -1,5 +1,1 @@
-title:[译] 25 台服务器是怎样支撑 StackOverflow 的？（仲浩）
-url:http://www.csdn.net/article/2014-07-22/2820774-stackoverflow-update-560m-pageviews-a-month-25-servers&amp;aid=1269&amp;nid=56
-author:
-author_url:
-text:<p>StackOverflow 是程序员必上的网站之一，本文介绍了它的架构设计。<a href="http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-month-25-servers-and-i.html" target="_blank">原文地址</a></p>
+{"category":"\u6700\u53d7\u6b22\u8fce\u7684\u6280\u672f\u5e72\u8d27\uff08\u7a0b\u5e8f\u8bbe\u8ba1\u7bc7\uff09","title":"[\u8bd1] 25 \u53f0\u670d\u52a1\u5668\u662f\u600e\u6837\u652f\u6491 StackOverflow \u7684\uff1f\uff08\u4ef2\u6d69\uff09","url":"http:\/\/www.csdn.net\/article\/2014-07-22\/2820774-stackoverflow-update-560m-pageviews-a-month-25-servers&amp;aid=1269&amp;nid=56","author":null,"text":"<p>StackOverflow \u662f\u7a0b\u5e8f\u5458\u5fc5\u4e0a\u7684\u7f51\u7ad9\u4e4b\u4e00\uff0c\u672c\u6587\u4ecb\u7ecd\u4e86\u5b83\u7684\u67b6\u6784\u8bbe\u8ba1\u3002<a href=\"http:\/\/highscalability.com\/blog\/2014\/7\/21\/stackoverflow-update-560m-pageviews-a-month-25-servers-and-i.html\" target=\"_blank\">\u539f\u6587\u5730\u5740<\/a><\/p>"}

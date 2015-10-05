@@ -1,5 +1,1 @@
-title:Dalvik 虚拟机 Java 堆创建过程分析 (@罗升阳)
-url:http://blog.csdn.net/luoshengyang/article/details/41581063&amp;aid=1683&amp;nid=53
-author:
-author_url:
-text:<p>本文分析 Dalvik 虚拟机的 Java 堆创建过程</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"Dalvik \u865a\u62df\u673a Java \u5806\u521b\u5efa\u8fc7\u7a0b\u5206\u6790 (@\u7f57\u5347\u9633)","url":"http:\/\/blog.csdn.net\/luoshengyang\/article\/details\/41581063&amp;aid=1683&amp;nid=53","author":null,"text":"<p>\u672c\u6587\u5206\u6790 Dalvik \u865a\u62df\u673a\u7684 Java \u5806\u521b\u5efa\u8fc7\u7a0b<\/p>"}

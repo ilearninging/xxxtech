@@ -1,5 +1,1 @@
-title:[译] PostgreSQL 的 MVCC 并发处理 (@Coder_猪之哀伤)
-url:http://www.zlovezl.cn/articles/postgresql-concurrency-with-mvcc/&amp;aid=3290&amp;nid=84
-author:
-author_url:
-text:<p>多版本并发控制</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"[\u8bd1] PostgreSQL \u7684 MVCC \u5e76\u53d1\u5904\u7406 (@Coder_\u732a\u4e4b\u54c0\u4f24)","url":"http:\/\/www.zlovezl.cn\/articles\/postgresql-concurrency-with-mvcc\/&amp;aid=3290&amp;nid=84","author":null,"text":"<p>\u591a\u7248\u672c\u5e76\u53d1\u63a7\u5236<\/p>"}

@@ -1,5 +1,1 @@
-title:腾讯万台规模的 Docker 应用实践 (@夕水溪下)
-url:http://www.infoq.com/cn/articles/tencent-millions-scale-docker-application-practice&amp;aid=2007&amp;nid=64
-author:
-author_url:
-text:<p>基于 Yarn 的代号为 Gaia 的调度平台</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u817e\u8baf\u4e07\u53f0\u89c4\u6a21\u7684 Docker \u5e94\u7528\u5b9e\u8df5 (@\u5915\u6c34\u6eaa\u4e0b)","url":"http:\/\/www.infoq.com\/cn\/articles\/tencent-millions-scale-docker-application-practice&amp;aid=2007&amp;nid=64","author":null,"text":"<p>\u57fa\u4e8e Yarn \u7684\u4ee3\u53f7\u4e3a Gaia \u7684\u8c03\u5ea6\u5e73\u53f0<\/p>"}

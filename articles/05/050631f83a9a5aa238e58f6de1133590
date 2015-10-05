@@ -1,5 +1,1 @@
-title:SQL 注入的那些事儿（Troy Hunt）
-url:http://www.troyhunt.com/2013/07/everything-you-wanted-to-know-about-sql.html&amp;aid=369&amp;nid=17
-author:
-author_url:
-text:<p>同时推荐 <a href="http://websec.ca/kb/sql_injection" target="_blank">The SQL Injection Knowledge Base</a>，感谢 <a href="http://weibo.com/325308080" target="_blank">@冻肿一只北极熊</a> 。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"SQL \u6ce8\u5165\u7684\u90a3\u4e9b\u4e8b\u513f\uff08Troy Hunt\uff09","url":"http:\/\/www.troyhunt.com\/2013\/07\/everything-you-wanted-to-know-about-sql.html&amp;aid=369&amp;nid=17","author":null,"text":"<p>\u540c\u65f6\u63a8\u8350 <a href=\"http:\/\/websec.ca\/kb\/sql_injection\" target=\"_blank\">The SQL Injection Knowledge Base<\/a>\uff0c\u611f\u8c22 <a href=\"http:\/\/weibo.com\/325308080\" target=\"_blank\">@\u51bb\u80bf\u4e00\u53ea\u5317\u6781\u718a<\/a> \u3002<\/p>"}

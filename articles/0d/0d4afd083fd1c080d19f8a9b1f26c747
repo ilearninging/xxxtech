@@ -1,5 +1,1 @@
-title:Tumblr 架构设计（最新版） (Michael Schenck)
-url:http://highscalability.com/blog/2014/8/4/tumblr-hashing-your-way-to-handling-23000-blog-requests-per.html&amp;aid=1300&amp;nid=40
-author:
-author_url:
-text:<p>此为最新版，更早的版本：<a href="http://vdisk.weibo.com/s/irL2v" target="_blank">2012 年</a>、<a href="http://www.oschina.net/translate/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll" target="_blank">2013 年</a>。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"Tumblr \u67b6\u6784\u8bbe\u8ba1\uff08\u6700\u65b0\u7248\uff09 (Michael Schenck)","url":"http:\/\/highscalability.com\/blog\/2014\/8\/4\/tumblr-hashing-your-way-to-handling-23000-blog-requests-per.html&amp;aid=1300&amp;nid=40","author":null,"text":"<p>\u6b64\u4e3a\u6700\u65b0\u7248\uff0c\u66f4\u65e9\u7684\u7248\u672c\uff1a<a href=\"http:\/\/vdisk.weibo.com\/s\/irL2v\" target=\"_blank\">2012 \u5e74<\/a>\u3001<a href=\"http:\/\/www.oschina.net\/translate\/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll\" target=\"_blank\">2013 \u5e74<\/a>\u3002<\/p>"}

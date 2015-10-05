@@ -1,5 +1,1 @@
-title:[译] 你知道 Linux 内核是如何构建的吗？ (oska874)
-url:https://linux.cn/article-6197-1.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io&amp;aid=3616&amp;nid=88
-author:
-author_url:
-text:<p>当你在内核源码路径里敲下 make 时发生了什么</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u8bd1] \u4f60\u77e5\u9053 Linux \u5185\u6838\u662f\u5982\u4f55\u6784\u5efa\u7684\u5417\uff1f (oska874)","url":"https:\/\/linux.cn\/article-6197-1.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io&amp;aid=3616&amp;nid=88","author":null,"text":"<p>\u5f53\u4f60\u5728\u5185\u6838\u6e90\u7801\u8def\u5f84\u91cc\u6572\u4e0b make \u65f6\u53d1\u751f\u4e86\u4ec0\u4e48<\/p>"}

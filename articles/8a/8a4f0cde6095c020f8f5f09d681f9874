@@ -1,5 +1,1 @@
-title:OpenStack 部署运维实战（@网易张晓龙 等）
-url:http://www.ibm.com/developerworks/cn/cloud/library/1408_zhangxl_openstack/&amp;aid=1373&amp;nid=42
-author:
-author_url:
-text:<p>本文介绍了网易基于 OpenStack 开发的一套云计算管理平台，以及在开发、运营、维护过程中遇到的问题和经验分享。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"OpenStack \u90e8\u7f72\u8fd0\u7ef4\u5b9e\u6218\uff08@\u7f51\u6613\u5f20\u6653\u9f99 \u7b49\uff09","url":"http:\/\/www.ibm.com\/developerworks\/cn\/cloud\/library\/1408_zhangxl_openstack\/&amp;aid=1373&amp;nid=42","author":null,"text":"<p>\u672c\u6587\u4ecb\u7ecd\u4e86\u7f51\u6613\u57fa\u4e8e OpenStack \u5f00\u53d1\u7684\u4e00\u5957\u4e91\u8ba1\u7b97\u7ba1\u7406\u5e73\u53f0\uff0c\u4ee5\u53ca\u5728\u5f00\u53d1\u3001\u8fd0\u8425\u3001\u7ef4\u62a4\u8fc7\u7a0b\u4e2d\u9047\u5230\u7684\u95ee\u9898\u548c\u7ecf\u9a8c\u5206\u4eab\u3002<\/p>"}

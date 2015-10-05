@@ -1,5 +1,1 @@
-title:[PDF] Redis 短期计划（Antirez）
-url:http://antirez.com/misc/RedisConf2013.pdf&amp;aid=114&amp;nid=7
-author:
-author_url:
-text:<p>Antirez 在 RedisConf 2013 上的重要讲话，第一句先自我表扬，然后掰开来论尽每一块的职责、今年的变动和即将发生的演进。via <a href="http://weibo.com/calvin1978" target="_blank">@江南白衣Calvin</a></p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"[PDF] Redis \u77ed\u671f\u8ba1\u5212\uff08Antirez\uff09","url":"http:\/\/antirez.com\/misc\/RedisConf2013.pdf&amp;aid=114&amp;nid=7","author":null,"text":"<p>Antirez \u5728 RedisConf 2013 \u4e0a\u7684\u91cd\u8981\u8bb2\u8bdd\uff0c\u7b2c\u4e00\u53e5\u5148\u81ea\u6211\u8868\u626c\uff0c\u7136\u540e\u63b0\u5f00\u6765\u8bba\u5c3d\u6bcf\u4e00\u5757\u7684\u804c\u8d23\u3001\u4eca\u5e74\u7684\u53d8\u52a8\u548c\u5373\u5c06\u53d1\u751f\u7684\u6f14\u8fdb\u3002via <a href=\"http:\/\/weibo.com\/calvin1978\" target=\"_blank\">@\u6c5f\u5357\u767d\u8863Calvin<\/a><\/p>"}

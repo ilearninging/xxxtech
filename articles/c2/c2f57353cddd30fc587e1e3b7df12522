@@ -1,5 +1,1 @@
-title:[译]iOS 设计模式（@Krq_Tiger）
-url:http://xmuzyq.iteye.com/blog/1942376&amp;aid=20&amp;nid=2
-author:
-author_url:
-text:<p>本文将带你使用绝大多数 Cocoa 中频繁使用的 iOS 设计模式：<a href="http://xmuzyq.iteye.com/blog/1942376" target="_blank">MVC、单例模式</a> <a href="http://xmuzyq.iteye.com/blog/1942379" target="_blank">门面、装饰器模式</a> <a href="http://xmuzyq.iteye.com/blog/1942381" target="_blank">适配器、观察者模式</a> <a href="http://xmuzyq.iteye.com/blog/1942386" target="_blank">备忘录、命令模式</a></p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u8bd1]iOS \u8bbe\u8ba1\u6a21\u5f0f\uff08@Krq_Tiger\uff09","url":"http:\/\/xmuzyq.iteye.com\/blog\/1942376&amp;aid=20&amp;nid=2","author":null,"text":"<p>\u672c\u6587\u5c06\u5e26\u4f60\u4f7f\u7528\u7edd\u5927\u591a\u6570 Cocoa \u4e2d\u9891\u7e41\u4f7f\u7528\u7684 iOS \u8bbe\u8ba1\u6a21\u5f0f\uff1a<a href=\"http:\/\/xmuzyq.iteye.com\/blog\/1942376\" target=\"_blank\">MVC\u3001\u5355\u4f8b\u6a21\u5f0f<\/a> <a href=\"http:\/\/xmuzyq.iteye.com\/blog\/1942379\" target=\"_blank\">\u95e8\u9762\u3001\u88c5\u9970\u5668\u6a21\u5f0f<\/a> <a href=\"http:\/\/xmuzyq.iteye.com\/blog\/1942381\" target=\"_blank\">\u9002\u914d\u5668\u3001\u89c2\u5bdf\u8005\u6a21\u5f0f<\/a> <a href=\"http:\/\/xmuzyq.iteye.com\/blog\/1942386\" target=\"_blank\">\u5907\u5fd8\u5f55\u3001\u547d\u4ee4\u6a21\u5f0f<\/a><\/p>"}

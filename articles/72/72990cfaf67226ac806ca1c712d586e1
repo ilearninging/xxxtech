@@ -1,5 +1,1 @@
-title:[译] Storm 入门（吴京润）
-url:http://ifeve.com/getting-started-with-storm-1/&amp;aid=776&amp;nid=24
-author:
-author_url:
-text:<p>Storm 是一个分布式的、可靠的、容错的数据流处理系统。它会把工作任务委托给不同类型的组件，每个组件负责处理一项简单特定的任务。此为第一章，<a href="http://ifeve.com/getting-started-with-storm-2/" target="_blank">第二章</a>。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"[\u8bd1] Storm \u5165\u95e8\uff08\u5434\u4eac\u6da6\uff09","url":"http:\/\/ifeve.com\/getting-started-with-storm-1\/&amp;aid=776&amp;nid=24","author":null,"text":"<p>Storm \u662f\u4e00\u4e2a\u5206\u5e03\u5f0f\u7684\u3001\u53ef\u9760\u7684\u3001\u5bb9\u9519\u7684\u6570\u636e\u6d41\u5904\u7406\u7cfb\u7edf\u3002\u5b83\u4f1a\u628a\u5de5\u4f5c\u4efb\u52a1\u59d4\u6258\u7ed9\u4e0d\u540c\u7c7b\u578b\u7684\u7ec4\u4ef6\uff0c\u6bcf\u4e2a\u7ec4\u4ef6\u8d1f\u8d23\u5904\u7406\u4e00\u9879\u7b80\u5355\u7279\u5b9a\u7684\u4efb\u52a1\u3002\u6b64\u4e3a\u7b2c\u4e00\u7ae0\uff0c<a href=\"http:\/\/ifeve.com\/getting-started-with-storm-2\/\" target=\"_blank\">\u7b2c\u4e8c\u7ae0<\/a>\u3002<\/p>"}

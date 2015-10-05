@@ -1,5 +1,1 @@
-title:借助 AOP 为 Java Web 应用记录性能数据 (潘家邦)
-url:http://blog.jamespan.me/2015/08/31/capture-perf-data-with-aop/&amp;aid=3439&amp;nid=86
-author:
-author_url:
-text:<p>一个基于 AOP 来抓取调用树和开销的尝试</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"\u501f\u52a9 AOP \u4e3a Java Web \u5e94\u7528\u8bb0\u5f55\u6027\u80fd\u6570\u636e (\u6f58\u5bb6\u90a6)","url":"http:\/\/blog.jamespan.me\/2015\/08\/31\/capture-perf-data-with-aop\/&amp;aid=3439&amp;nid=86","author":null,"text":"<p>\u4e00\u4e2a\u57fa\u4e8e AOP \u6765\u6293\u53d6\u8c03\u7528\u6811\u548c\u5f00\u9500\u7684\u5c1d\u8bd5<\/p>"}

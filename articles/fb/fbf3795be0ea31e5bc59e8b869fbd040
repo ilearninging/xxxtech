@@ -1,5 +1,1 @@
-title:《Apache Spark 源码剖析》
-url:http://www.amazon.cn/gp/product/B00U0A9L3C?ie=UTF8&camp=536&creativeASIN=B00U0A9L3C&linkCode=xm2&tag=manongio-23&amp;aid=2004&amp;nid=64
-author:
-author_url:
-text:<p>以 1.02 版本源码为切入点，着力于探寻 Spark 所要解决的主要问题及其解决办法，通过一系列精心设计的小实验来分析每一步背后的处理逻辑。</p>
+{"category":"\u6bcf\u5468\u4e00\u4e66","title":"\u300aApache Spark \u6e90\u7801\u5256\u6790\u300b","url":"http:\/\/www.amazon.cn\/gp\/product\/B00U0A9L3C?ie=UTF8&camp=536&creativeASIN=B00U0A9L3C&linkCode=xm2&tag=manongio-23&amp;aid=2004&amp;nid=64","author":null,"text":"<p>\u4ee5 1.02 \u7248\u672c\u6e90\u7801\u4e3a\u5207\u5165\u70b9\uff0c\u7740\u529b\u4e8e\u63a2\u5bfb Spark \u6240\u8981\u89e3\u51b3\u7684\u4e3b\u8981\u95ee\u9898\u53ca\u5176\u89e3\u51b3\u529e\u6cd5\uff0c\u901a\u8fc7\u4e00\u7cfb\u5217\u7cbe\u5fc3\u8bbe\u8ba1\u7684\u5c0f\u5b9e\u9a8c\u6765\u5206\u6790\u6bcf\u4e00\u6b65\u80cc\u540e\u7684\u5904\u7406\u903b\u8f91\u3002<\/p>"}

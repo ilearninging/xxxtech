@@ -1,5 +1,1 @@
-title:Twitter Redis 实战经验分享
-url:http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html&amp;aid=1421&amp;nid=44
-author:
-author_url:
-text:<p>一组数据：105 TB RAM, 39 MM QPS, 10,000+ Instances</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"Twitter Redis \u5b9e\u6218\u7ecf\u9a8c\u5206\u4eab","url":"http:\/\/highscalability.com\/blog\/2014\/9\/8\/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html&amp;aid=1421&amp;nid=44","author":null,"text":"<p>\u4e00\u7ec4\u6570\u636e\uff1a105 TB RAM, 39 MM QPS, 10,000+ Instances<\/p>"}

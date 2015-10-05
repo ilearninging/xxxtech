@@ -1,5 +1,1 @@
-title:Google Shell 编码风格指南
-url:http://google-styleguide.googlecode.com/svn/trunk/shell.xml&amp;aid=161&amp;nid=9
-author:
-author_url:
-text:<p>同时推荐 finderla 的 <a href="http://blog.chinaunix.net/uid-24566729-id-3967742.html" target="_blank">shell 脚本的一些注意事项</a></p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"Google Shell \u7f16\u7801\u98ce\u683c\u6307\u5357","url":"http:\/\/google-styleguide.googlecode.com\/svn\/trunk\/shell.xml&amp;aid=161&amp;nid=9","author":null,"text":"<p>\u540c\u65f6\u63a8\u8350 finderla \u7684 <a href=\"http:\/\/blog.chinaunix.net\/uid-24566729-id-3967742.html\" target=\"_blank\">shell \u811a\u672c\u7684\u4e00\u4e9b\u6ce8\u610f\u4e8b\u9879<\/a><\/p>"}

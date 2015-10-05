@@ -1,5 +1,1 @@
-title:Go 并发模式：管道和取消 (Googol Lee)
-url:http://air.googol.im/2014/03/15/go-concurrency-patterns-pipelines-and-cancellation.html&amp;aid=772&amp;nid=24
-author:
-author_url:
-text:<p>介绍如何使用 Go 来编写并发程序，并按照程序的演化顺序，介绍了不同模式遇到的问题以及解决的问题。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"Go \u5e76\u53d1\u6a21\u5f0f\uff1a\u7ba1\u9053\u548c\u53d6\u6d88 (Googol Lee)","url":"http:\/\/air.googol.im\/2014\/03\/15\/go-concurrency-patterns-pipelines-and-cancellation.html&amp;aid=772&amp;nid=24","author":null,"text":"<p>\u4ecb\u7ecd\u5982\u4f55\u4f7f\u7528 Go \u6765\u7f16\u5199\u5e76\u53d1\u7a0b\u5e8f\uff0c\u5e76\u6309\u7167\u7a0b\u5e8f\u7684\u6f14\u5316\u987a\u5e8f\uff0c\u4ecb\u7ecd\u4e86\u4e0d\u540c\u6a21\u5f0f\u9047\u5230\u7684\u95ee\u9898\u4ee5\u53ca\u89e3\u51b3\u7684\u95ee\u9898\u3002<\/p>"}

@@ -1,5 +1,1 @@
-title:[译] 基于锁的原子操作（@方腾飞-清英）
-url:http://ifeve.com/inter-64-ia-32-8-1/&amp;aid=293&amp;nid=14
-author:
-author_url:
-text:<p>本文翻译自<a href="http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html" target="_blank">《英特尔 64 和 IA-32 架构软件开发人员手册》</a>卷三“系统编程指南”的第八章“多处理器的管理”的第一节。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u8bd1] \u57fa\u4e8e\u9501\u7684\u539f\u5b50\u64cd\u4f5c\uff08@\u65b9\u817e\u98de-\u6e05\u82f1\uff09","url":"http:\/\/ifeve.com\/inter-64-ia-32-8-1\/&amp;aid=293&amp;nid=14","author":null,"text":"<p>\u672c\u6587\u7ffb\u8bd1\u81ea<a href=\"http:\/\/www.intel.com\/content\/www\/us\/en\/processors\/architectures-software-developer-manuals.html\" target=\"_blank\">\u300a\u82f1\u7279\u5c14 64 \u548c IA-32 \u67b6\u6784\u8f6f\u4ef6\u5f00\u53d1\u4eba\u5458\u624b\u518c\u300b<\/a>\u5377\u4e09\u201c\u7cfb\u7edf\u7f16\u7a0b\u6307\u5357\u201d\u7684\u7b2c\u516b\u7ae0\u201c\u591a\u5904\u7406\u5668\u7684\u7ba1\u7406\u201d\u7684\u7b2c\u4e00\u8282\u3002<\/p>"}

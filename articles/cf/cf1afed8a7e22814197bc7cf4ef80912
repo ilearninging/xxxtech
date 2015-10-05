@@ -1,5 +1,1 @@
-title:[译] 系列文章：JVM 性能优化（赵峰）
-url:http://ifeve.com/jvm-optimize-1/&amp;aid=1304&amp;nid=40
-author:
-author_url:
-text:<p>此为第一部分：JVM 技术入门，第二部分：<a href="http://ifeve.com/jvm-optimize-2/" target="_blank">编译器</a>。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"[\u8bd1] \u7cfb\u5217\u6587\u7ae0\uff1aJVM \u6027\u80fd\u4f18\u5316\uff08\u8d75\u5cf0\uff09","url":"http:\/\/ifeve.com\/jvm-optimize-1\/&amp;aid=1304&amp;nid=40","author":null,"text":"<p>\u6b64\u4e3a\u7b2c\u4e00\u90e8\u5206\uff1aJVM \u6280\u672f\u5165\u95e8\uff0c\u7b2c\u4e8c\u90e8\u5206\uff1a<a href=\"http:\/\/ifeve.com\/jvm-optimize-2\/\" target=\"_blank\">\u7f16\u8bd1\u5668<\/a>\u3002<\/p>"}

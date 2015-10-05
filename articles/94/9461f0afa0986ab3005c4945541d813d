@@ -1,5 +1,1 @@
-title:C 语言的整型溢出问题（@左耳朵耗子）
-url:http://coolshell.cn/articles/11466.html&amp;aid=974&amp;nid=29
-author:
-author_url:
-text:<p>整型溢出会有可能导致缓冲区溢出，缓冲区溢出会导致各种黑客攻击。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"C \u8bed\u8a00\u7684\u6574\u578b\u6ea2\u51fa\u95ee\u9898\uff08@\u5de6\u8033\u6735\u8017\u5b50\uff09","url":"http:\/\/coolshell.cn\/articles\/11466.html&amp;aid=974&amp;nid=29","author":null,"text":"<p>\u6574\u578b\u6ea2\u51fa\u4f1a\u6709\u53ef\u80fd\u5bfc\u81f4\u7f13\u51b2\u533a\u6ea2\u51fa\uff0c\u7f13\u51b2\u533a\u6ea2\u51fa\u4f1a\u5bfc\u81f4\u5404\u79cd\u9ed1\u5ba2\u653b\u51fb\u3002<\/p>"}

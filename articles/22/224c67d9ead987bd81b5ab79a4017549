@@ -1,5 +1,1 @@
-title:《MySQL 内核：InnoDB 存储引擎（卷1）》
-url:http://www.amazon.cn/gp/product/B00K0AFP5U/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00K0AFP5U&linkCode=as2&tag=manongio-23&amp;aid=1074&amp;nid=32
-author:<small>姜承尧、蒋鸿翔、饶珑辉、温正湖</small>
-author_url:
-text:<p>本书由资深 MySQL 专家亲自执笔，在以往出版的两本 InnoDB 介绍性图书的基础之上，深入介绍了 InnoDB 存储引擎的内核，深度解析了 InnoDB 的体系结构、实现原理和工作机制。</p>
+{"category":"\u6bcf\u5468\u4e00\u4e66","title":"\u300aMySQL \u5185\u6838\uff1aInnoDB \u5b58\u50a8\u5f15\u64ce\uff08\u53771\uff09\u300b","url":"http:\/\/www.amazon.cn\/gp\/product\/B00K0AFP5U\/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00K0AFP5U&linkCode=as2&tag=manongio-23&amp;aid=1074&amp;nid=32","author":"http:\/\/www.innomysql.net\/article\/3458.html","text":"<p>\u672c\u4e66\u7531\u8d44\u6df1 MySQL \u4e13\u5bb6\u4eb2\u81ea\u6267\u7b14\uff0c\u5728\u4ee5\u5f80\u51fa\u7248\u7684\u4e24\u672c InnoDB \u4ecb\u7ecd\u6027\u56fe\u4e66\u7684\u57fa\u7840\u4e4b\u4e0a\uff0c\u6df1\u5165\u4ecb\u7ecd\u4e86 InnoDB \u5b58\u50a8\u5f15\u64ce\u7684\u5185\u6838\uff0c\u6df1\u5ea6\u89e3\u6790\u4e86 InnoDB \u7684\u4f53\u7cfb\u7ed3\u6784\u3001\u5b9e\u73b0\u539f\u7406\u548c\u5de5\u4f5c\u673a\u5236\u3002<\/p>"}

@@ -1,5 +1,1 @@
-title:系列文章：搭建高可用 MongoDB 集群（@观澜而索源）
-url:http://www.lanceyan.com/tech/mongodb/mongodb_cluster_1.html&amp;aid=902&amp;nid=27
-author:
-author_url:
-text:<p>此为第一部分配置 MongoDB，其他部分：<a href="http://www.lanceyan.com/tech/mongodb/mongodb_repset1.html" target="_blank">副本集</a>、<a href="http://www.lanceyan.com/tech/mongodb_repset2.html" target="_blank">深入副本集内部机制</a>、<a href="http://www.lanceyan.com/tech/arch/mongodb_shard1.html" target="_blank">分片</a>。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u7cfb\u5217\u6587\u7ae0\uff1a\u642d\u5efa\u9ad8\u53ef\u7528 MongoDB \u96c6\u7fa4\uff08@\u89c2\u6f9c\u800c\u7d22\u6e90\uff09","url":"http:\/\/www.lanceyan.com\/tech\/mongodb\/mongodb_cluster_1.html&amp;aid=902&amp;nid=27","author":null,"text":"<p>\u6b64\u4e3a\u7b2c\u4e00\u90e8\u5206\u914d\u7f6e MongoDB\uff0c\u5176\u4ed6\u90e8\u5206\uff1a<a href=\"http:\/\/www.lanceyan.com\/tech\/mongodb\/mongodb_repset1.html\" target=\"_blank\">\u526f\u672c\u96c6<\/a>\u3001<a href=\"http:\/\/www.lanceyan.com\/tech\/mongodb_repset2.html\" target=\"_blank\">\u6df1\u5165\u526f\u672c\u96c6\u5185\u90e8\u673a\u5236<\/a>\u3001<a href=\"http:\/\/www.lanceyan.com\/tech\/arch\/mongodb_shard1.html\" target=\"_blank\">\u5206\u7247<\/a>\u3002<\/p>"}

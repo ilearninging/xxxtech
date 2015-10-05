@@ -1,5 +1,1 @@
-title:[译] Dapper，大规模分布式系统的跟踪系统（bigbully）
-url:http://bigbully.github.io/Dapper-translation/&amp;aid=37&amp;nid=3
-author:
-author_url:
-text:<p>本文译自 Google 论文 <a href="http://research.google.com/pubs/pub36356.html" target="_blank">Dapper, a Large-Scale Distributed Systems Tracing Infrastructure</a>，将介绍 Dapper 是如何构建、部署的以及使用 Dapper 搭建的分析工具。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u8bd1] Dapper\uff0c\u5927\u89c4\u6a21\u5206\u5e03\u5f0f\u7cfb\u7edf\u7684\u8ddf\u8e2a\u7cfb\u7edf\uff08bigbully\uff09","url":"http:\/\/bigbully.github.io\/Dapper-translation\/&amp;aid=37&amp;nid=3","author":null,"text":"<p>\u672c\u6587\u8bd1\u81ea Google \u8bba\u6587 <a href=\"http:\/\/research.google.com\/pubs\/pub36356.html\" target=\"_blank\">Dapper, a Large-Scale Distributed Systems Tracing Infrastructure<\/a>\uff0c\u5c06\u4ecb\u7ecd Dapper \u662f\u5982\u4f55\u6784\u5efa\u3001\u90e8\u7f72\u7684\u4ee5\u53ca\u4f7f\u7528 Dapper \u642d\u5efa\u7684\u5206\u6790\u5de5\u5177\u3002<\/p>"}

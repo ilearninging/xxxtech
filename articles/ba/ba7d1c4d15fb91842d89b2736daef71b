@@ -1,5 +1,1 @@
-title:[视频] 微信后台存储架构（许家滔）
-url:http://www.infoq.com/cn/presentations/weixin-background-memory-architecture&amp;aid=1270&amp;nid=39
-author:
-author_url:
-text:<p>微信开发团队的对外分享不多，本分享将深入微信架构内部，深度解析存储分布方面的基础设施。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u89c6\u9891] \u5fae\u4fe1\u540e\u53f0\u5b58\u50a8\u67b6\u6784\uff08\u8bb8\u5bb6\u6ed4\uff09","url":"http:\/\/www.infoq.com\/cn\/presentations\/weixin-background-memory-architecture&amp;aid=1270&amp;nid=39","author":null,"text":"<p>\u5fae\u4fe1\u5f00\u53d1\u56e2\u961f\u7684\u5bf9\u5916\u5206\u4eab\u4e0d\u591a\uff0c\u672c\u5206\u4eab\u5c06\u6df1\u5165\u5fae\u4fe1\u67b6\u6784\u5185\u90e8\uff0c\u6df1\u5ea6\u89e3\u6790\u5b58\u50a8\u5206\u5e03\u65b9\u9762\u7684\u57fa\u7840\u8bbe\u65bd\u3002<\/p>"}

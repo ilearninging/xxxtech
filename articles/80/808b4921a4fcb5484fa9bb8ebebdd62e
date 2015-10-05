@@ -1,5 +1,1 @@
-title:GCViewer - 一个查看并分析垃圾回收日志文件的小工具
-url:https://github.com/chewiebug/GCViewer&amp;aid=248&amp;nid=12
-author:
-author_url:
-text:<p>对性能调优很有帮助，支持 G1。感谢 <a href="http://weibo.com/javacommunity" target="_blank">@甲骨文Java社区</a> 的分享。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"GCViewer - \u4e00\u4e2a\u67e5\u770b\u5e76\u5206\u6790\u5783\u573e\u56de\u6536\u65e5\u5fd7\u6587\u4ef6\u7684\u5c0f\u5de5\u5177","url":"https:\/\/github.com\/chewiebug\/GCViewer&amp;aid=248&amp;nid=12","author":null,"text":"<p>\u5bf9\u6027\u80fd\u8c03\u4f18\u5f88\u6709\u5e2e\u52a9\uff0c\u652f\u6301 G1\u3002\u611f\u8c22 <a href=\"http:\/\/weibo.com\/javacommunity\" target=\"_blank\">@\u7532\u9aa8\u6587Java\u793e\u533a<\/a> \u7684\u5206\u4eab\u3002<\/p>"}

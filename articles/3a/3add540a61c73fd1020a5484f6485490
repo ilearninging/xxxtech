@@ -1,5 +1,1 @@
-title:腾讯大规模 Hadoop 集群实践（翟艳堂）
-url:http://www.csdn.net/article/2014-02-19/2818473-Tencent-Hadoop&amp;aid=501&amp;nid=21
-author:
-author_url:
-text:<p>TDW 是腾讯最大的离线数据处理平台。本文主要从需求、挑战、方案和未来计划等方面，介绍了 TDW 在建设单个大规模集群中采取的 JobTracker 分散化和 NameNode 高可用两个优化方案。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u817e\u8baf\u5927\u89c4\u6a21 Hadoop \u96c6\u7fa4\u5b9e\u8df5\uff08\u7fdf\u8273\u5802\uff09","url":"http:\/\/www.csdn.net\/article\/2014-02-19\/2818473-Tencent-Hadoop&amp;aid=501&amp;nid=21","author":null,"text":"<p>TDW \u662f\u817e\u8baf\u6700\u5927\u7684\u79bb\u7ebf\u6570\u636e\u5904\u7406\u5e73\u53f0\u3002\u672c\u6587\u4e3b\u8981\u4ece\u9700\u6c42\u3001\u6311\u6218\u3001\u65b9\u6848\u548c\u672a\u6765\u8ba1\u5212\u7b49\u65b9\u9762\uff0c\u4ecb\u7ecd\u4e86 TDW \u5728\u5efa\u8bbe\u5355\u4e2a\u5927\u89c4\u6a21\u96c6\u7fa4\u4e2d\u91c7\u53d6\u7684 JobTracker \u5206\u6563\u5316\u548c NameNode \u9ad8\u53ef\u7528\u4e24\u4e2a\u4f18\u5316\u65b9\u6848\u3002<\/p>"}

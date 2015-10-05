@@ -1,5 +1,1 @@
-title:libMF 源码分析（@Book呈）
-url:http://bookc.github.io/2014/05/26/libmf-comments-in-chinese/&amp;aid=1094&amp;nid=32
-author:
-author_url:
-text:<p>libMF 是由台湾大学林智仁老师实验室开发的，一个用于推荐系统领域的矩阵分解开源库。<a href="https://github.com/bookc/libMF-comments-in-Chinese" target="_blank">注释代码地址</a></p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"libMF \u6e90\u7801\u5206\u6790\uff08@Book\u5448\uff09","url":"http:\/\/bookc.github.io\/2014\/05\/26\/libmf-comments-in-chinese\/&amp;aid=1094&amp;nid=32","author":null,"text":"<p>libMF \u662f\u7531\u53f0\u6e7e\u5927\u5b66\u6797\u667a\u4ec1\u8001\u5e08\u5b9e\u9a8c\u5ba4\u5f00\u53d1\u7684\uff0c\u4e00\u4e2a\u7528\u4e8e\u63a8\u8350\u7cfb\u7edf\u9886\u57df\u7684\u77e9\u9635\u5206\u89e3\u5f00\u6e90\u5e93\u3002<a href=\"https:\/\/github.com\/bookc\/libMF-comments-in-Chinese\" target=\"_blank\">\u6ce8\u91ca\u4ee3\u7801\u5730\u5740<\/a><\/p>"}

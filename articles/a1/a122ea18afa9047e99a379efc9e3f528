@@ -1,5 +1,1 @@
-title:深入剖析阿里巴巴云梯 YARN 集群（沈洪）
-url:http://www.csdn.net/article/2013-12-04/2817706--YARN&amp;aid=259&amp;nid=13
-author:
-author_url:
-text:<p>本文将详细介绍阿里巴巴如何充分利用 YARN 的新特性来构建和完善其多功能分布式集群——云梯 YARN 集群。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u6df1\u5165\u5256\u6790\u963f\u91cc\u5df4\u5df4\u4e91\u68af YARN \u96c6\u7fa4\uff08\u6c88\u6d2a\uff09","url":"http:\/\/www.csdn.net\/article\/2013-12-04\/2817706--YARN&amp;aid=259&amp;nid=13","author":null,"text":"<p>\u672c\u6587\u5c06\u8be6\u7ec6\u4ecb\u7ecd\u963f\u91cc\u5df4\u5df4\u5982\u4f55\u5145\u5206\u5229\u7528 YARN \u7684\u65b0\u7279\u6027\u6765\u6784\u5efa\u548c\u5b8c\u5584\u5176\u591a\u529f\u80fd\u5206\u5e03\u5f0f\u96c6\u7fa4\u2014\u2014\u4e91\u68af YARN \u96c6\u7fa4\u3002<\/p>"}

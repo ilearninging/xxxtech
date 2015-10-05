@@ -1,5 +1,1 @@
-title:使用 Python 元类（@廖雪峰）
-url:http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001386820064557c69858840b4c48d2b8411bc2ea9099ba000&amp;aid=1362&amp;nid=42
-author:
-author_url:
-text:<p>元类（Metaclass）是 Python 最难理解的部分，但是使用恰当，威力巨大，比如 100 行代码轻松实现 ORM。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"\u4f7f\u7528 Python \u5143\u7c7b\uff08@\u5ed6\u96ea\u5cf0\uff09","url":"http:\/\/www.liaoxuefeng.com\/wiki\/001374738125095c955c1e6d8bb493182103fac9270762a000\/001386820064557c69858840b4c48d2b8411bc2ea9099ba000&amp;aid=1362&amp;nid=42","author":null,"text":"<p>\u5143\u7c7b\uff08Metaclass\uff09\u662f Python \u6700\u96be\u7406\u89e3\u7684\u90e8\u5206\uff0c\u4f46\u662f\u4f7f\u7528\u6070\u5f53\uff0c\u5a01\u529b\u5de8\u5927\uff0c\u6bd4\u5982 100 \u884c\u4ee3\u7801\u8f7b\u677e\u5b9e\u73b0 ORM\u3002<\/p>"}

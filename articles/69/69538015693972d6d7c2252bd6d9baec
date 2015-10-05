@@ -1,5 +1,1 @@
-title:《Go 并发编程实战》
-url:http://www.amazon.cn/gp/product/B00PLLCM9A?ie=UTF8&camp=536&creativeASIN=B00PLLCM9A&linkCode=xm2&tag=manongio-23&amp;aid=1650&amp;nid=52
-author:<small>@特价萝卜</small>
-author_url:
-text:<p>本书全面介绍了 Go 语言的特点、安装部署环境、工程规范、工具链、语言语法、并发编程模型以及在多个编程实战中的应用，重点阐述了 Go 语言并发编程模型和机制。</p>
+{"category":"\u6bcf\u5468\u4e00\u4e66","title":"\u300aGo \u5e76\u53d1\u7f16\u7a0b\u5b9e\u6218\u300b","url":"http:\/\/www.amazon.cn\/gp\/product\/B00PLLCM9A?ie=UTF8&camp=536&creativeASIN=B00PLLCM9A&linkCode=xm2&tag=manongio-23&amp;aid=1650&amp;nid=52","author":"http:\/\/weibo.com\/u\/1691497632","text":"<p>\u672c\u4e66\u5168\u9762\u4ecb\u7ecd\u4e86 Go \u8bed\u8a00\u7684\u7279\u70b9\u3001\u5b89\u88c5\u90e8\u7f72\u73af\u5883\u3001\u5de5\u7a0b\u89c4\u8303\u3001\u5de5\u5177\u94fe\u3001\u8bed\u8a00\u8bed\u6cd5\u3001\u5e76\u53d1\u7f16\u7a0b\u6a21\u578b\u4ee5\u53ca\u5728\u591a\u4e2a\u7f16\u7a0b\u5b9e\u6218\u4e2d\u7684\u5e94\u7528\uff0c\u91cd\u70b9\u9610\u8ff0\u4e86 Go \u8bed\u8a00\u5e76\u53d1\u7f16\u7a0b\u6a21\u578b\u548c\u673a\u5236\u3002<\/p>"}

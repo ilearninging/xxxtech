@@ -1,5 +1,1 @@
-title:[PDF] Postgres 9.3 主要功能介绍（Bruce Momjian）
-url:http://vdisk.weibo.com/s/G-kaugh6Iyvr&amp;aid=69&amp;nid=5
-author:
-author_url:
-text:<p>虽然 PostgreSQL 9.3 正式版发布有一段时间了，但估计升级的人不多。如果你想升级到 PostgreSQL 9.3，不妨一看。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"[PDF] Postgres 9.3 \u4e3b\u8981\u529f\u80fd\u4ecb\u7ecd\uff08Bruce Momjian\uff09","url":"http:\/\/vdisk.weibo.com\/s\/G-kaugh6Iyvr&amp;aid=69&amp;nid=5","author":null,"text":"<p>\u867d\u7136 PostgreSQL 9.3 \u6b63\u5f0f\u7248\u53d1\u5e03\u6709\u4e00\u6bb5\u65f6\u95f4\u4e86\uff0c\u4f46\u4f30\u8ba1\u5347\u7ea7\u7684\u4eba\u4e0d\u591a\u3002\u5982\u679c\u4f60\u60f3\u5347\u7ea7\u5230 PostgreSQL 9.3\uff0c\u4e0d\u59a8\u4e00\u770b\u3002<\/p>"}

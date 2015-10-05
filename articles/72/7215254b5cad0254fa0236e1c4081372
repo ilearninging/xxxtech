@@ -1,5 +1,1 @@
-title:SparkR - R 的 Spark前端
-url:http://amplab-extras.github.io/SparkR-pkg/&amp;aid=453&amp;nid=19
-author:
-author_url:
-text:<p>可以利用 R 进行大数据交互分析，也可以在节点上利用 R 的数据分析库，是大数据的一个新利器。via <a href="http://weibo.com/hashjoin" target="_blank">@hashjoin</a></p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"SparkR - R \u7684 Spark\u524d\u7aef","url":"http:\/\/amplab-extras.github.io\/SparkR-pkg\/&amp;aid=453&amp;nid=19","author":null,"text":"<p>\u53ef\u4ee5\u5229\u7528 R \u8fdb\u884c\u5927\u6570\u636e\u4ea4\u4e92\u5206\u6790\uff0c\u4e5f\u53ef\u4ee5\u5728\u8282\u70b9\u4e0a\u5229\u7528 R \u7684\u6570\u636e\u5206\u6790\u5e93\uff0c\u662f\u5927\u6570\u636e\u7684\u4e00\u4e2a\u65b0\u5229\u5668\u3002via <a href=\"http:\/\/weibo.com\/hashjoin\" target=\"_blank\">@hashjoin<\/a><\/p>"}

@@ -1,5 +1,1 @@
-title:Golang 测试技术 (@tonybai_cn)
-url:http://tonybai.com/2014/10/22/golang-testing-techniques/&amp;aid=1561&amp;nid=49
-author:
-author_url:
-text:<p>本文源于 Golang 核心开发组成员 Andrew Gerrand 在 Google I/O 2014 的主题分享 <a href="https://talks.golang.org/2014/testing.slide#1" target="_blank">Testing Techniques</a></p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"Golang \u6d4b\u8bd5\u6280\u672f (@tonybai_cn)","url":"http:\/\/tonybai.com\/2014\/10\/22\/golang-testing-techniques\/&amp;aid=1561&amp;nid=49","author":null,"text":"<p>\u672c\u6587\u6e90\u4e8e Golang \u6838\u5fc3\u5f00\u53d1\u7ec4\u6210\u5458 Andrew Gerrand \u5728 Google I\/O 2014 \u7684\u4e3b\u9898\u5206\u4eab <a href=\"https:\/\/talks.golang.org\/2014\/testing.slide#1\" target=\"_blank\">Testing Techniques<\/a><\/p>"}

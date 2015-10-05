@@ -1,5 +1,1 @@
-title:[译] Scrapy v0.22 中文文档 (@marchtea)
-url:http://scrapy-chs.readthedocs.org/zh_CN/latest/&amp;aid=956&amp;nid=28
-author:
-author_url:
-text:<p>Scrapy 是一个为了爬取网站数据、提取结构性数据而编写的应用框架。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"[\u8bd1] Scrapy v0.22 \u4e2d\u6587\u6587\u6863 (@marchtea)","url":"http:\/\/scrapy-chs.readthedocs.org\/zh_CN\/latest\/&amp;aid=956&amp;nid=28","author":null,"text":"<p>Scrapy \u662f\u4e00\u4e2a\u4e3a\u4e86\u722c\u53d6\u7f51\u7ad9\u6570\u636e\u3001\u63d0\u53d6\u7ed3\u6784\u6027\u6570\u636e\u800c\u7f16\u5199\u7684\u5e94\u7528\u6846\u67b6\u3002<\/p>"}

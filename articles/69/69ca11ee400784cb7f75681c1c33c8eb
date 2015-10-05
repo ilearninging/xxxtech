@@ -1,5 +1,1 @@
-title:Spark Internals (@JerryLead)
-url:https://github.com/JerryLead/SparkInternals/tree/master/markdown&amp;aid=1355&amp;nid=42
-author:
-author_url:
-text:<p>本文主要讨论 Apache Spark 的设计与实现，重点关注其设计思想、运行原理、实现架构及性能调优，附带讨论与 Hadoop MapReduce 在设计与实现上的区别。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"Spark Internals (@JerryLead)","url":"https:\/\/github.com\/JerryLead\/SparkInternals\/tree\/master\/markdown&amp;aid=1355&amp;nid=42","author":null,"text":"<p>\u672c\u6587\u4e3b\u8981\u8ba8\u8bba Apache Spark \u7684\u8bbe\u8ba1\u4e0e\u5b9e\u73b0\uff0c\u91cd\u70b9\u5173\u6ce8\u5176\u8bbe\u8ba1\u601d\u60f3\u3001\u8fd0\u884c\u539f\u7406\u3001\u5b9e\u73b0\u67b6\u6784\u53ca\u6027\u80fd\u8c03\u4f18\uff0c\u9644\u5e26\u8ba8\u8bba\u4e0e Hadoop MapReduce \u5728\u8bbe\u8ba1\u4e0e\u5b9e\u73b0\u4e0a\u7684\u533a\u522b\u3002<\/p>"}

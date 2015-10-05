@@ -1,5 +1,1 @@
-title:那些少人所知而又有用的数据结构（StackOverflow）
-url:http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures&amp;aid=442&amp;nid=19
-author:
-author_url:
-text:<p>每个程序猿都熟悉链表、二叉树和哈希表，可是 Skip lists、Bloom filters、Dancing links、Tries、Rops……又知道几个呢？via <a href="http://weibo.com/lewhwa" target="_blank">@网路冷眼</a></p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"\u90a3\u4e9b\u5c11\u4eba\u6240\u77e5\u800c\u53c8\u6709\u7528\u7684\u6570\u636e\u7ed3\u6784\uff08StackOverflow\uff09","url":"http:\/\/stackoverflow.com\/questions\/500607\/what-are-the-lesser-known-but-useful-data-structures&amp;aid=442&amp;nid=19","author":null,"text":"<p>\u6bcf\u4e2a\u7a0b\u5e8f\u733f\u90fd\u719f\u6089\u94fe\u8868\u3001\u4e8c\u53c9\u6811\u548c\u54c8\u5e0c\u8868\uff0c\u53ef\u662f Skip lists\u3001Bloom filters\u3001Dancing links\u3001Tries\u3001Rops\u2026\u2026\u53c8\u77e5\u9053\u51e0\u4e2a\u5462\uff1fvia <a href=\"http:\/\/weibo.com\/lewhwa\" target=\"_blank\">@\u7f51\u8def\u51b7\u773c<\/a><\/p>"}

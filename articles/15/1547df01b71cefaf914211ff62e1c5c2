@@ -1,5 +1,1 @@
-title:JavaScript 与有限状态机
-url:http://www.ruanyifeng.com/blog/2013/09/finite-state_machine_for_javascript.html&amp;aid=5&amp;nid=1
-author:
-author_url:
-text:<p>有限状态机（Finite-state machine）是一个非常有用的模型，可以模拟世界上大部分事物。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"JavaScript \u4e0e\u6709\u9650\u72b6\u6001\u673a","url":"http:\/\/www.ruanyifeng.com\/blog\/2013\/09\/finite-state_machine_for_javascript.html&amp;aid=5&amp;nid=1","author":null,"text":"<p>\u6709\u9650\u72b6\u6001\u673a\uff08Finite-state machine\uff09\u662f\u4e00\u4e2a\u975e\u5e38\u6709\u7528\u7684\u6a21\u578b\uff0c\u53ef\u4ee5\u6a21\u62df\u4e16\u754c\u4e0a\u5927\u90e8\u5206\u4e8b\u7269\u3002<\/p>"}

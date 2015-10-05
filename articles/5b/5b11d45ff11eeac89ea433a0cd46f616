@@ -1,5 +1,1 @@
-title:Sourcegraph 架构设计 (Quinn Slack)
-url:https://sourcegraph.com/blog/google-io-2014-building-sourcegraph-a-large-scale-code-search-engine-in-go&amp;aid=1240&amp;nid=38
-author:
-author_url:
-text:<p>Sourcegraph 是一个源码搜索网站，基于 Go 语言。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"Sourcegraph \u67b6\u6784\u8bbe\u8ba1 (Quinn Slack)","url":"https:\/\/sourcegraph.com\/blog\/google-io-2014-building-sourcegraph-a-large-scale-code-search-engine-in-go&amp;aid=1240&amp;nid=38","author":null,"text":"<p>Sourcegraph \u662f\u4e00\u4e2a\u6e90\u7801\u641c\u7d22\u7f51\u7ad9\uff0c\u57fa\u4e8e Go \u8bed\u8a00\u3002<\/p>"}

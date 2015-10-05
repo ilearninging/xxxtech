@@ -1,5 +1,1 @@
-title:分布式系统 Failover 测试框架的实现 (@tobe陈迪豪)
-url:https://github.com/tobegit3hub/note/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9FFailover%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%E7%9A%84%E5%AE%9E%E7%8E%B0.md&amp;aid=1976&amp;nid=63
-author:
-author_url:
-text:<p>Failover 是指系统处理故障并恢复的过程，本论文介绍了这个测试框架的基本架构与实现细节。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u5206\u5e03\u5f0f\u7cfb\u7edf Failover \u6d4b\u8bd5\u6846\u67b6\u7684\u5b9e\u73b0 (@tobe\u9648\u8fea\u8c6a)","url":"https:\/\/github.com\/tobegit3hub\/note\/blob\/master\/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9FFailover%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%E7%9A%84%E5%AE%9E%E7%8E%B0.md&amp;aid=1976&amp;nid=63","author":null,"text":"<p>Failover \u662f\u6307\u7cfb\u7edf\u5904\u7406\u6545\u969c\u5e76\u6062\u590d\u7684\u8fc7\u7a0b\uff0c\u672c\u8bba\u6587\u4ecb\u7ecd\u4e86\u8fd9\u4e2a\u6d4b\u8bd5\u6846\u67b6\u7684\u57fa\u672c\u67b6\u6784\u4e0e\u5b9e\u73b0\u7ec6\u8282\u3002<\/p>"}

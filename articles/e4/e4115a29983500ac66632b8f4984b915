@@ -1,5 +1,1 @@
-title:[PDF] Java GC 精粹（Mechanical Sympathy）
-url:http://vdisk.weibo.com/s/dBzv2sia-1hp&amp;aid=201&amp;nid=11
-author:
-author_url:
-text:<p>这篇文章看后跟小伙伴讨论良久，大有收获，终于在 Java GC 上不再是什么都听不懂的小白了。via @何_登成 <a href="http://mechanical-sympathy.blogspot.com/2013/07/java-garbage-collection-distilled.html" target="_blank">原文地址</a>（需梯子）</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[PDF] Java GC \u7cbe\u7cb9\uff08Mechanical Sympathy\uff09","url":"http:\/\/vdisk.weibo.com\/s\/dBzv2sia-1hp&amp;aid=201&amp;nid=11","author":null,"text":"<p>\u8fd9\u7bc7\u6587\u7ae0\u770b\u540e\u8ddf\u5c0f\u4f19\u4f34\u8ba8\u8bba\u826f\u4e45\uff0c\u5927\u6709\u6536\u83b7\uff0c\u7ec8\u4e8e\u5728 Java GC \u4e0a\u4e0d\u518d\u662f\u4ec0\u4e48\u90fd\u542c\u4e0d\u61c2\u7684\u5c0f\u767d\u4e86\u3002via @\u4f55_\u767b\u6210 <a href=\"http:\/\/mechanical-sympathy.blogspot.com\/2013\/07\/java-garbage-collection-distilled.html\" target=\"_blank\">\u539f\u6587\u5730\u5740<\/a>\uff08\u9700\u68af\u5b50\uff09<\/p>"}

@@ -1,5 +1,1 @@
-title:[译] Arduino 创始人谈硬件为什么也要开源（吴德新）
-url:http://www.leiphone.com/d-arduino-on-open-source-hw.html&amp;aid=97&amp;nid=6
-author:
-author_url:
-text:<p>因为开源硬件使得人们更容易地开发自己的产品；树莓派是以 PC 的形式让人们学习编程，而我们（BeagleBone 和 Arduino）则是提供完整的平台。</p>
+{"category":"\u7f16\u7a0b\u4e4b\u5916","title":"[\u8bd1] Arduino \u521b\u59cb\u4eba\u8c08\u786c\u4ef6\u4e3a\u4ec0\u4e48\u4e5f\u8981\u5f00\u6e90\uff08\u5434\u5fb7\u65b0\uff09","url":"http:\/\/www.leiphone.com\/d-arduino-on-open-source-hw.html&amp;aid=97&amp;nid=6","author":null,"text":"<p>\u56e0\u4e3a\u5f00\u6e90\u786c\u4ef6\u4f7f\u5f97\u4eba\u4eec\u66f4\u5bb9\u6613\u5730\u5f00\u53d1\u81ea\u5df1\u7684\u4ea7\u54c1\uff1b\u6811\u8393\u6d3e\u662f\u4ee5 PC \u7684\u5f62\u5f0f\u8ba9\u4eba\u4eec\u5b66\u4e60\u7f16\u7a0b\uff0c\u800c\u6211\u4eec\uff08BeagleBone \u548c Arduino\uff09\u5219\u662f\u63d0\u4f9b\u5b8c\u6574\u7684\u5e73\u53f0\u3002<\/p>"}

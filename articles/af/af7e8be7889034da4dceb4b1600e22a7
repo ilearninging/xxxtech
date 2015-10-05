@@ -1,5 +1,1 @@
-title:Facebook 出品的高性能C语言并发编程框架 libPhenom
-url:http://facebook.github.io/libphenom/&amp;aid=29&amp;nid=2
-author:
-author_url:
-text:<p>Facebook 放出了一个高性能的C语言并发编程框架 libPhenom ，看了一下功能，觉得挺有意思。它既支持事件驱动，也支持多线程，还提供了内存管理和常用数据结构，甚至是 json 处理。via <a href="http://weibo.com/royshan" target="_blank">@骆逸</a></p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"Facebook \u51fa\u54c1\u7684\u9ad8\u6027\u80fdC\u8bed\u8a00\u5e76\u53d1\u7f16\u7a0b\u6846\u67b6 libPhenom","url":"http:\/\/facebook.github.io\/libphenom\/&amp;aid=29&amp;nid=2","author":null,"text":"<p>Facebook \u653e\u51fa\u4e86\u4e00\u4e2a\u9ad8\u6027\u80fd\u7684C\u8bed\u8a00\u5e76\u53d1\u7f16\u7a0b\u6846\u67b6 libPhenom \uff0c\u770b\u4e86\u4e00\u4e0b\u529f\u80fd\uff0c\u89c9\u5f97\u633a\u6709\u610f\u601d\u3002\u5b83\u65e2\u652f\u6301\u4e8b\u4ef6\u9a71\u52a8\uff0c\u4e5f\u652f\u6301\u591a\u7ebf\u7a0b\uff0c\u8fd8\u63d0\u4f9b\u4e86\u5185\u5b58\u7ba1\u7406\u548c\u5e38\u7528\u6570\u636e\u7ed3\u6784\uff0c\u751a\u81f3\u662f json \u5904\u7406\u3002via <a href=\"http:\/\/weibo.com\/royshan\" target=\"_blank\">@\u9a86\u9038<\/a><\/p>"}

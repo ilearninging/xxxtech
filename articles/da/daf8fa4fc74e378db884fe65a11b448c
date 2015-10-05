@@ -1,5 +1,1 @@
-title:[译] 构建自己的 AngularJS（@民工精髓V）
-url:http://www.ituring.com.cn/article/39865&amp;aid=177&amp;nid=10
-author:
-author_url:
-text:<p>一篇深入讲解 AngularJS 核心机制的文章，此为第一部分：Scope 和 Digest。<a href="http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html" target="_blank">原文链接</a></p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u8bd1] \u6784\u5efa\u81ea\u5df1\u7684 AngularJS\uff08@\u6c11\u5de5\u7cbe\u9ad3V\uff09","url":"http:\/\/www.ituring.com.cn\/article\/39865&amp;aid=177&amp;nid=10","author":null,"text":"<p>\u4e00\u7bc7\u6df1\u5165\u8bb2\u89e3 AngularJS \u6838\u5fc3\u673a\u5236\u7684\u6587\u7ae0\uff0c\u6b64\u4e3a\u7b2c\u4e00\u90e8\u5206\uff1aScope \u548c Digest\u3002<a href=\"http:\/\/teropa.info\/blog\/2013\/11\/03\/make-your-own-angular-part-1-scopes-and-digest.html\" target=\"_blank\">\u539f\u6587\u94fe\u63a5<\/a><\/p>"}

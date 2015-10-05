@@ -1,5 +1,1 @@
-title:HBase 优化案例分析：Facebook Messages 系统问题与解决方案（@DataScientist）
-url:http://www.infoq.com/cn/articles/hbase-casestudy-facebook-messages&amp;aid=760&amp;nid=24
-author:
-author_url:
-text:<p>Facebook 在使用 HBase 中遇到的一些问题和解决方案，使用 HBase 做 online storage 的同学可以参考下。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"HBase \u4f18\u5316\u6848\u4f8b\u5206\u6790\uff1aFacebook Messages \u7cfb\u7edf\u95ee\u9898\u4e0e\u89e3\u51b3\u65b9\u6848\uff08@DataScientist\uff09","url":"http:\/\/www.infoq.com\/cn\/articles\/hbase-casestudy-facebook-messages&amp;aid=760&amp;nid=24","author":null,"text":"<p>Facebook \u5728\u4f7f\u7528 HBase \u4e2d\u9047\u5230\u7684\u4e00\u4e9b\u95ee\u9898\u548c\u89e3\u51b3\u65b9\u6848\uff0c\u4f7f\u7528 HBase \u505a online storage \u7684\u540c\u5b66\u53ef\u4ee5\u53c2\u8003\u4e0b\u3002<\/p>"}

@@ -1,5 +1,1 @@
-title:朴素贝叶斯分类器的应用（@ruanyf）
-url:http://www.ruanyifeng.com/blog/2013/12/naive_bayes_classifier.html&amp;aid=312&amp;nid=14
-author:
-author_url:
-text:<p>本文介绍朴素贝叶斯分类器（Naive Bayes classifier），它是一种简单有效的常用分类算法。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"\u6734\u7d20\u8d1d\u53f6\u65af\u5206\u7c7b\u5668\u7684\u5e94\u7528\uff08@ruanyf\uff09","url":"http:\/\/www.ruanyifeng.com\/blog\/2013\/12\/naive_bayes_classifier.html&amp;aid=312&amp;nid=14","author":null,"text":"<p>\u672c\u6587\u4ecb\u7ecd\u6734\u7d20\u8d1d\u53f6\u65af\u5206\u7c7b\u5668\uff08Naive Bayes classifier\uff09\uff0c\u5b83\u662f\u4e00\u79cd\u7b80\u5355\u6709\u6548\u7684\u5e38\u7528\u5206\u7c7b\u7b97\u6cd5\u3002<\/p>"}

@@ -1,5 +1,1 @@
-title:进程间共享 inode 相互影响简单分析（@bryton岁月）
-url:http://blog.sina.com.cn/s/blog_e59371cc0102ux75.html&amp;aid=1253&amp;nid=38
-author:
-author_url:
-text:<p>一篇详细的实战文章，探讨如何利用 inode 的特性运维高可用程序。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"\u8fdb\u7a0b\u95f4\u5171\u4eab inode \u76f8\u4e92\u5f71\u54cd\u7b80\u5355\u5206\u6790\uff08@bryton\u5c81\u6708\uff09","url":"http:\/\/blog.sina.com.cn\/s\/blog_e59371cc0102ux75.html&amp;aid=1253&amp;nid=38","author":null,"text":"<p>\u4e00\u7bc7\u8be6\u7ec6\u7684\u5b9e\u6218\u6587\u7ae0\uff0c\u63a2\u8ba8\u5982\u4f55\u5229\u7528 inode \u7684\u7279\u6027\u8fd0\u7ef4\u9ad8\u53ef\u7528\u7a0b\u5e8f\u3002<\/p>"}

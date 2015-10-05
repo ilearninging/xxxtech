@@ -1,5 +1,1 @@
-title:[译] Redis 集群规范（@huangz1990）
-url:http://www.redisdoc.com/en/latest/topic/cluster-spec.html&amp;aid=66&amp;nid=5
-author:
-author_url:
-text:<p>Redis Cluster 从来都是只闻楼梯响，正式版转眼又从 Redis 2.8 跳票到 3.0。不过 R 家的东西有个好处就是原理简单明了，你可以很容易推导出它在各场景下的行为，不会有别家那种黑盒的抓瞎感。via <a href="http://weibo.com/calvin1978" target="_blank">@江南白衣Calvin</a> <a href="http://redis.io/topics/cluster-spec" target="_blank">原文地址</a></p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u8bd1] Redis \u96c6\u7fa4\u89c4\u8303\uff08@huangz1990\uff09","url":"http:\/\/www.redisdoc.com\/en\/latest\/topic\/cluster-spec.html&amp;aid=66&amp;nid=5","author":null,"text":"<p>Redis Cluster \u4ece\u6765\u90fd\u662f\u53ea\u95fb\u697c\u68af\u54cd\uff0c\u6b63\u5f0f\u7248\u8f6c\u773c\u53c8\u4ece Redis 2.8 \u8df3\u7968\u5230 3.0\u3002\u4e0d\u8fc7 R \u5bb6\u7684\u4e1c\u897f\u6709\u4e2a\u597d\u5904\u5c31\u662f\u539f\u7406\u7b80\u5355\u660e\u4e86\uff0c\u4f60\u53ef\u4ee5\u5f88\u5bb9\u6613\u63a8\u5bfc\u51fa\u5b83\u5728\u5404\u573a\u666f\u4e0b\u7684\u884c\u4e3a\uff0c\u4e0d\u4f1a\u6709\u522b\u5bb6\u90a3\u79cd\u9ed1\u76d2\u7684\u6293\u778e\u611f\u3002via <a href=\"http:\/\/weibo.com\/calvin1978\" target=\"_blank\">@\u6c5f\u5357\u767d\u8863Calvin<\/a> <a href=\"http:\/\/redis.io\/topics\/cluster-spec\" target=\"_blank\">\u539f\u6587\u5730\u5740<\/a><\/p>"}

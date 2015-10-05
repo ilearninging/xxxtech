@@ -1,5 +1,1 @@
-title:[译] 让并发和容错更容易：Akka 示例教程 (@左洪斌)
-url:http://hongbinzuo.github.io/2014/12/16/Akka-Tutorial-with-Code-Conncurrency-and-Fault-Tolerance/&amp;aid=1746&amp;nid=55
-author:
-author_url:
-text:<p>介绍了 Akka 的示例，并仔细研究它如何帮助并简化分布式并发应用的实现。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"[\u8bd1] \u8ba9\u5e76\u53d1\u548c\u5bb9\u9519\u66f4\u5bb9\u6613\uff1aAkka \u793a\u4f8b\u6559\u7a0b (@\u5de6\u6d2a\u658c)","url":"http:\/\/hongbinzuo.github.io\/2014\/12\/16\/Akka-Tutorial-with-Code-Conncurrency-and-Fault-Tolerance\/&amp;aid=1746&amp;nid=55","author":null,"text":"<p>\u4ecb\u7ecd\u4e86 Akka \u7684\u793a\u4f8b\uff0c\u5e76\u4ed4\u7ec6\u7814\u7a76\u5b83\u5982\u4f55\u5e2e\u52a9\u5e76\u7b80\u5316\u5206\u5e03\u5f0f\u5e76\u53d1\u5e94\u7528\u7684\u5b9e\u73b0\u3002<\/p>"}

@@ -1,5 +1,1 @@
-title:游戏行业的人工智能设计（第一部分）
-url:https://software.intel.com/zh-cn/articles/designing-artificial-intelligence-for-games-part-1?utm_source=MaNong&utm_medium=Syndication&utm_campaign=GameDev_PRC_Q2-15_MaNong&amp;aid=2475&amp;nid=74
-author:
-author_url:
-text:<p>本文将分四个部分，探讨游戏的人工智能设计概念以及如何优化这些概念，使其在如今最前沿的多核处理器上顺畅运行。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"\u6e38\u620f\u884c\u4e1a\u7684\u4eba\u5de5\u667a\u80fd\u8bbe\u8ba1\uff08\u7b2c\u4e00\u90e8\u5206\uff09","url":"https:\/\/software.intel.com\/zh-cn\/articles\/designing-artificial-intelligence-for-games-part-1?utm_source=MaNong&utm_medium=Syndication&utm_campaign=GameDev_PRC_Q2-15_MaNong&amp;aid=2475&amp;nid=74","author":null,"text":"<p>\u672c\u6587\u5c06\u5206\u56db\u4e2a\u90e8\u5206\uff0c\u63a2\u8ba8\u6e38\u620f\u7684\u4eba\u5de5\u667a\u80fd\u8bbe\u8ba1\u6982\u5ff5\u4ee5\u53ca\u5982\u4f55\u4f18\u5316\u8fd9\u4e9b\u6982\u5ff5\uff0c\u4f7f\u5176\u5728\u5982\u4eca\u6700\u524d\u6cbf\u7684\u591a\u6838\u5904\u7406\u5668\u4e0a\u987a\u7545\u8fd0\u884c\u3002<\/p>"}

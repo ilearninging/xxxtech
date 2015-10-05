@@ -1,5 +1,1 @@
-title:系列文章：Go 语言并行编程 (Dmitry Vyukov)
-url:https://software.intel.com/en-us/blogs/2013/06/18/go-parallel&amp;aid=948&amp;nid=28
-author:
-author_url:
-text:<p>此为第一部分，<a href="https://software.intel.com/en-us/blogs/2014/04/13/go-parallel-2" target="_blank">第二部分</a>。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"\u7cfb\u5217\u6587\u7ae0\uff1aGo \u8bed\u8a00\u5e76\u884c\u7f16\u7a0b (Dmitry Vyukov)","url":"https:\/\/software.intel.com\/en-us\/blogs\/2013\/06\/18\/go-parallel&amp;aid=948&amp;nid=28","author":null,"text":"<p>\u6b64\u4e3a\u7b2c\u4e00\u90e8\u5206\uff0c<a href=\"https:\/\/software.intel.com\/en-us\/blogs\/2014\/04\/13\/go-parallel-2\" target=\"_blank\">\u7b2c\u4e8c\u90e8\u5206<\/a>\u3002<\/p>"}

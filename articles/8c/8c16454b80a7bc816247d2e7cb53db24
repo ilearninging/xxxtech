@@ -1,5 +1,1 @@
-title:使用 C/C++ 扩展 Python (wanzhi Du)
-url:http://www.the520.cn/2014/02/27/python_c_api_extension.htm&amp;aid=1594&amp;nid=50
-author:
-author_url:
-text:<p>Python 与 C/C++ 互操作有很多方案，这里选择最原始的 Python C API 方式。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"\u4f7f\u7528 C\/C++ \u6269\u5c55 Python (wanzhi Du)","url":"http:\/\/www.the520.cn\/2014\/02\/27\/python_c_api_extension.htm&amp;aid=1594&amp;nid=50","author":null,"text":"<p>Python \u4e0e C\/C++ \u4e92\u64cd\u4f5c\u6709\u5f88\u591a\u65b9\u6848\uff0c\u8fd9\u91cc\u9009\u62e9\u6700\u539f\u59cb\u7684 Python C API \u65b9\u5f0f\u3002<\/p>"}

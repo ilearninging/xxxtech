@@ -1,5 +1,1 @@
-title:MySQL 5.6 binlog_format 和 transaction_isolation 组合产生的效果及分析 (蔚蔚蔚SuperHero)
-url:https://github.com/wing324/MySQL-Github/blob/master/binlog_format%E5%92%8Ctransaction_isolation%E7%BB%84%E5%90%88%E4%BA%A7%E7%94%9F%E7%9A%84%E6%95%88%E6%9E%9C%E5%8F%8A%E5%88%86%E6%9E%90.md&amp;aid=3585&amp;nid=87
-author:
-author_url:
-text:<p>试验展示</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"MySQL 5.6 binlog_format \u548c transaction_isolation \u7ec4\u5408\u4ea7\u751f\u7684\u6548\u679c\u53ca\u5206\u6790 (\u851a\u851a\u851aSuperHero)","url":"https:\/\/github.com\/wing324\/MySQL-Github\/blob\/master\/binlog_format%E5%92%8Ctransaction_isolation%E7%BB%84%E5%90%88%E4%BA%A7%E7%94%9F%E7%9A%84%E6%95%88%E6%9E%9C%E5%8F%8A%E5%88%86%E6%9E%90.md&amp;aid=3585&amp;nid=87","author":null,"text":"<p>\u8bd5\u9a8c\u5c55\u793a<\/p>"}

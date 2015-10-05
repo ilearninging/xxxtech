@@ -1,5 +1,1 @@
-title:Summingbird - Twitter 流处理框架 
-url:https://github.com/twitter/summingbird&amp;aid=452&amp;nid=19
-author:
-author_url:
-text:<p>Summingbird 是一个大规模数据处理系统，支持开发者以批处理模式（基于 Hadoop/MapReduce ）或流处理模式（基于 Storm ）或混合模式（即组合前两种模式）以统一的方式执行代码。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"Summingbird - Twitter \u6d41\u5904\u7406\u6846\u67b6 ","url":"https:\/\/github.com\/twitter\/summingbird&amp;aid=452&amp;nid=19","author":null,"text":"<p>Summingbird \u662f\u4e00\u4e2a\u5927\u89c4\u6a21\u6570\u636e\u5904\u7406\u7cfb\u7edf\uff0c\u652f\u6301\u5f00\u53d1\u8005\u4ee5\u6279\u5904\u7406\u6a21\u5f0f\uff08\u57fa\u4e8e Hadoop\/MapReduce \uff09\u6216\u6d41\u5904\u7406\u6a21\u5f0f\uff08\u57fa\u4e8e Storm \uff09\u6216\u6df7\u5408\u6a21\u5f0f\uff08\u5373\u7ec4\u5408\u524d\u4e24\u79cd\u6a21\u5f0f\uff09\u4ee5\u7edf\u4e00\u7684\u65b9\u5f0f\u6267\u884c\u4ee3\u7801\u3002<\/p>"}

@@ -1,5 +1,1 @@
-title:API 设计 (Matt Gemmell)
-url:http://mattgemmell.com/api-design/&amp;aid=1417&amp;nid=44
-author:
-author_url:
-text:<p>一篇老文，介绍了 Objective-C 中类、接口以及通知的接口设计原则。感谢 <b>@唐巧_boy</b> 的分享。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"API \u8bbe\u8ba1 (Matt Gemmell)","url":"http:\/\/mattgemmell.com\/api-design\/&amp;aid=1417&amp;nid=44","author":null,"text":"<p>\u4e00\u7bc7\u8001\u6587\uff0c\u4ecb\u7ecd\u4e86 Objective-C \u4e2d\u7c7b\u3001\u63a5\u53e3\u4ee5\u53ca\u901a\u77e5\u7684\u63a5\u53e3\u8bbe\u8ba1\u539f\u5219\u3002\u611f\u8c22 <b>@\u5510\u5de7_boy<\/b> \u7684\u5206\u4eab\u3002<\/p>"}

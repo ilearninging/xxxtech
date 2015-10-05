@@ -1,5 +1,1 @@
-title:Ruby 代码重构速查表（Ginny Hendry）
-url:http://ghendry.net/refactor.html&amp;aid=52&amp;nid=4
-author:
-author_url:
-text:<p>本文是作者阅读 <a href="http://book.douban.com/subject/3988448/" target="_blank">Refactoring: Ruby Edition</a> 一书所作的读书笔记，供 Ruby 程序员参考。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"Ruby \u4ee3\u7801\u91cd\u6784\u901f\u67e5\u8868\uff08Ginny Hendry\uff09","url":"http:\/\/ghendry.net\/refactor.html&amp;aid=52&amp;nid=4","author":null,"text":"<p>\u672c\u6587\u662f\u4f5c\u8005\u9605\u8bfb <a href=\"http:\/\/book.douban.com\/subject\/3988448\/\" target=\"_blank\">Refactoring: Ruby Edition<\/a> \u4e00\u4e66\u6240\u4f5c\u7684\u8bfb\u4e66\u7b14\u8bb0\uff0c\u4f9b Ruby \u7a0b\u5e8f\u5458\u53c2\u8003\u3002<\/p>"}

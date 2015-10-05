@@ -1,5 +1,1 @@
-title:系列文章：iOS 富文本组件的实现：DTCoreText 源码解析
-url:http://blog.cnbang.net/tech/2729/&amp;aid=2131&amp;nid=67
-author:
-author_url:
-text:<p>此为渲染篇，<a href="http://blog.cnbang.net/tech/2630/" target="_blank">数据篇</a>。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"\u7cfb\u5217\u6587\u7ae0\uff1aiOS \u5bcc\u6587\u672c\u7ec4\u4ef6\u7684\u5b9e\u73b0\uff1aDTCoreText \u6e90\u7801\u89e3\u6790","url":"http:\/\/blog.cnbang.net\/tech\/2729\/&amp;aid=2131&amp;nid=67","author":null,"text":"<p>\u6b64\u4e3a\u6e32\u67d3\u7bc7\uff0c<a href=\"http:\/\/blog.cnbang.net\/tech\/2630\/\" target=\"_blank\">\u6570\u636e\u7bc7<\/a>\u3002<\/p>"}

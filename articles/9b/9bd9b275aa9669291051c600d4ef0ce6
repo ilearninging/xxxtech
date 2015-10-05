@@ -1,5 +1,1 @@
-title:OceanBase - 阿里巴巴开源的分布式数据库系统
-url:https://github.com/alibaba/oceanbase&amp;aid=190&amp;nid=10
-author:
-author_url:
-text:<p>OceanBase 0.4.2.8 开源了，该版本在双11中表现良好。双11当天系统的最大峰值 TPS 达到6.8万，QPS 达到8.8万。via <a href="http://weibo.com/u/2356115944" target="_blank">@OceanBase开源</a></p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"OceanBase - \u963f\u91cc\u5df4\u5df4\u5f00\u6e90\u7684\u5206\u5e03\u5f0f\u6570\u636e\u5e93\u7cfb\u7edf","url":"https:\/\/github.com\/alibaba\/oceanbase&amp;aid=190&amp;nid=10","author":null,"text":"<p>OceanBase 0.4.2.8 \u5f00\u6e90\u4e86\uff0c\u8be5\u7248\u672c\u5728\u53cc11\u4e2d\u8868\u73b0\u826f\u597d\u3002\u53cc11\u5f53\u5929\u7cfb\u7edf\u7684\u6700\u5927\u5cf0\u503c TPS \u8fbe\u52306.8\u4e07\uff0cQPS \u8fbe\u52308.8\u4e07\u3002via <a href=\"http:\/\/weibo.com\/u\/2356115944\" target=\"_blank\">@OceanBase\u5f00\u6e90<\/a><\/p>"}

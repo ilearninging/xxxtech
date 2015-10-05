@@ -1,5 +1,1 @@
-title:Gogs - 一个由 Go 语言编写的自助 Git 托管服务（@无闻Unknown）
-url:https://github.com/gogits/gogs&amp;aid=848&amp;nid=25
-author:
-author_url:
-text:<p>Gogs 完全使用 Go 语言来实现对 Git 数据的操作，实现零依赖，并且支持 Go 语言所支持的所有平台，包括 Linux、Mac OS X 以及 Windows。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"Gogs - \u4e00\u4e2a\u7531 Go \u8bed\u8a00\u7f16\u5199\u7684\u81ea\u52a9 Git \u6258\u7ba1\u670d\u52a1\uff08@\u65e0\u95fbUnknown\uff09","url":"https:\/\/github.com\/gogits\/gogs&amp;aid=848&amp;nid=25","author":null,"text":"<p>Gogs \u5b8c\u5168\u4f7f\u7528 Go \u8bed\u8a00\u6765\u5b9e\u73b0\u5bf9 Git \u6570\u636e\u7684\u64cd\u4f5c\uff0c\u5b9e\u73b0\u96f6\u4f9d\u8d56\uff0c\u5e76\u4e14\u652f\u6301 Go \u8bed\u8a00\u6240\u652f\u6301\u7684\u6240\u6709\u5e73\u53f0\uff0c\u5305\u62ec Linux\u3001Mac OS X \u4ee5\u53ca Windows\u3002<\/p>"}

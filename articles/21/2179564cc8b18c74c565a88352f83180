@@ -1,5 +1,1 @@
-title:[译] Heroku 的 HTTP API 设计指南（赵震一）
-url:http://www.infoq.com/cn/news/2014/09/heroku-http-design-guide&amp;aid=1394&amp;nid=43
-author:
-author_url:
-text:<p>这份<a href="https://github.com/interagent/http-api-design" target="_blank">设计指南</a>很火，GitHub 上 Star 数已过 6000。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u8bd1] Heroku \u7684 HTTP API \u8bbe\u8ba1\u6307\u5357\uff08\u8d75\u9707\u4e00\uff09","url":"http:\/\/www.infoq.com\/cn\/news\/2014\/09\/heroku-http-design-guide&amp;aid=1394&amp;nid=43","author":null,"text":"<p>\u8fd9\u4efd<a href=\"https:\/\/github.com\/interagent\/http-api-design\" target=\"_blank\">\u8bbe\u8ba1\u6307\u5357<\/a>\u5f88\u706b\uff0cGitHub \u4e0a Star \u6570\u5df2\u8fc7 6000\u3002<\/p>"}

@@ -1,5 +1,1 @@
-title:微信红包的架构设计简介 (@yulin718)
-url:https://www.zybuluo.com/yulin718/note/93148&amp;aid=2213&amp;nid=69
-author:
-author_url:
-text:<p>“2014 年使用数据库硬抗整个流量，2015 年使用 Cache 抗流量。”</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u5fae\u4fe1\u7ea2\u5305\u7684\u67b6\u6784\u8bbe\u8ba1\u7b80\u4ecb (@yulin718)","url":"https:\/\/www.zybuluo.com\/yulin718\/note\/93148&amp;aid=2213&amp;nid=69","author":null,"text":"<p>\u201c2014 \u5e74\u4f7f\u7528\u6570\u636e\u5e93\u786c\u6297\u6574\u4e2a\u6d41\u91cf\uff0c2015 \u5e74\u4f7f\u7528 Cache \u6297\u6d41\u91cf\u3002\u201d<\/p>"}

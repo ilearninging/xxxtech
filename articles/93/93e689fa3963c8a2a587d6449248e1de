@@ -1,5 +1,1 @@
-title:一次奇幻的 Docker libcontainer 代码阅读之旅 (@oilbeater)
-url:http://oilbeater.com/docker/2014/11/11/docker-libcontainer-reading.html&amp;aid=1656&amp;nid=52
-author:
-author_url:
-text:<p>libcontainer 是 Docker 架构中一个使用 Go 语言设计实现的库</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u4e00\u6b21\u5947\u5e7b\u7684 Docker libcontainer \u4ee3\u7801\u9605\u8bfb\u4e4b\u65c5 (@oilbeater)","url":"http:\/\/oilbeater.com\/docker\/2014\/11\/11\/docker-libcontainer-reading.html&amp;aid=1656&amp;nid=52","author":null,"text":"<p>libcontainer \u662f Docker \u67b6\u6784\u4e2d\u4e00\u4e2a\u4f7f\u7528 Go \u8bed\u8a00\u8bbe\u8ba1\u5b9e\u73b0\u7684\u5e93<\/p>"}

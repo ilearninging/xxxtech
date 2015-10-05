@@ -1,5 +1,1 @@
-title:[译] iOS 探索：iOS 程序的 Build 过程（@BeyondVincent）
-url:http://beyondvincent.com/blog/2013/11/21/123-build-process/&amp;aid=205&amp;nid=11
-author:
-author_url:
-text:<p>本文将带你探索 iOS 程序的 Build 过程，了解背后一些不为人知的秘密。<a href="http://www.objc.io/issue-6/build-process.html" target="_blank">原文地址</a></p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"[\u8bd1] iOS \u63a2\u7d22\uff1aiOS \u7a0b\u5e8f\u7684 Build \u8fc7\u7a0b\uff08@BeyondVincent\uff09","url":"http:\/\/beyondvincent.com\/blog\/2013\/11\/21\/123-build-process\/&amp;aid=205&amp;nid=11","author":null,"text":"<p>\u672c\u6587\u5c06\u5e26\u4f60\u63a2\u7d22 iOS \u7a0b\u5e8f\u7684 Build \u8fc7\u7a0b\uff0c\u4e86\u89e3\u80cc\u540e\u4e00\u4e9b\u4e0d\u4e3a\u4eba\u77e5\u7684\u79d8\u5bc6\u3002<a href=\"http:\/\/www.objc.io\/issue-6\/build-process.html\" target=\"_blank\">\u539f\u6587\u5730\u5740<\/a><\/p>"}

@@ -1,5 +1,1 @@
-title:iOS 应用安全开发，你不知道的那些事（@唐巧_boy）
-url:http://www.csdn.net/article/2014-04-30/2819573-The-Secret-Of-App-Dev-Security&amp;aid=1010&amp;nid=30
-author:
-author_url:
-text:<p>本文从网络安全、本地文件和数据安全、源代码安全三个方面概述 iOS 移动应用在安全方面所面临的挑战以及应对措施。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"iOS \u5e94\u7528\u5b89\u5168\u5f00\u53d1\uff0c\u4f60\u4e0d\u77e5\u9053\u7684\u90a3\u4e9b\u4e8b\uff08@\u5510\u5de7_boy\uff09","url":"http:\/\/www.csdn.net\/article\/2014-04-30\/2819573-The-Secret-Of-App-Dev-Security&amp;aid=1010&amp;nid=30","author":null,"text":"<p>\u672c\u6587\u4ece\u7f51\u7edc\u5b89\u5168\u3001\u672c\u5730\u6587\u4ef6\u548c\u6570\u636e\u5b89\u5168\u3001\u6e90\u4ee3\u7801\u5b89\u5168\u4e09\u4e2a\u65b9\u9762\u6982\u8ff0 iOS \u79fb\u52a8\u5e94\u7528\u5728\u5b89\u5168\u65b9\u9762\u6240\u9762\u4e34\u7684\u6311\u6218\u4ee5\u53ca\u5e94\u5bf9\u63aa\u65bd\u3002<\/p>"}

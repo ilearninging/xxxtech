@@ -1,5 +1,1 @@
-title:一个“蝇量级” C 语言协程库（@我的上铺叫路遥）
-url:http://coolshell.cn/articles/10975.html&amp;aid=464&amp;nid=20
-author:
-author_url:
-text:<p>开源 C 协程库 protothreads，之所以称为“蝇量级”，就是说，实现已经不能再精简了，几乎就是原语级别。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"\u4e00\u4e2a\u201c\u8747\u91cf\u7ea7\u201d C \u8bed\u8a00\u534f\u7a0b\u5e93\uff08@\u6211\u7684\u4e0a\u94fa\u53eb\u8def\u9065\uff09","url":"http:\/\/coolshell.cn\/articles\/10975.html&amp;aid=464&amp;nid=20","author":null,"text":"<p>\u5f00\u6e90 C \u534f\u7a0b\u5e93 protothreads\uff0c\u4e4b\u6240\u4ee5\u79f0\u4e3a\u201c\u8747\u91cf\u7ea7\u201d\uff0c\u5c31\u662f\u8bf4\uff0c\u5b9e\u73b0\u5df2\u7ecf\u4e0d\u80fd\u518d\u7cbe\u7b80\u4e86\uff0c\u51e0\u4e4e\u5c31\u662f\u539f\u8bed\u7ea7\u522b\u3002<\/p>"}

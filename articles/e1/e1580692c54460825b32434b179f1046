@@ -1,5 +1,1 @@
-title:Presto 实现原理和美团的使用实践（@木叶丸autumn）
-url:http://tech.meituan.com/presto.html&amp;aid=1213&amp;nid=37
-author:
-author_url:
-text:<p>Facebook 称 Presto 的性能比 Hive 要好上 10 倍多。本文尝试对 Presto 实现实时查询的原理进行分析和总结，并介绍 Presto 在美团的使用情况。（感谢 <a href="http://weibo.com/chenzhijun" target="_blank">@JavaChen</a> 分享）</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"Presto \u5b9e\u73b0\u539f\u7406\u548c\u7f8e\u56e2\u7684\u4f7f\u7528\u5b9e\u8df5\uff08@\u6728\u53f6\u4e38autumn\uff09","url":"http:\/\/tech.meituan.com\/presto.html&amp;aid=1213&amp;nid=37","author":null,"text":"<p>Facebook \u79f0 Presto \u7684\u6027\u80fd\u6bd4 Hive \u8981\u597d\u4e0a 10 \u500d\u591a\u3002\u672c\u6587\u5c1d\u8bd5\u5bf9 Presto \u5b9e\u73b0\u5b9e\u65f6\u67e5\u8be2\u7684\u539f\u7406\u8fdb\u884c\u5206\u6790\u548c\u603b\u7ed3\uff0c\u5e76\u4ecb\u7ecd Presto \u5728\u7f8e\u56e2\u7684\u4f7f\u7528\u60c5\u51b5\u3002\uff08\u611f\u8c22 <a href=\"http:\/\/weibo.com\/chenzhijun\" target=\"_blank\">@JavaChen<\/a> \u5206\u4eab\uff09<\/p>"}

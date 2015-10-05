@@ -1,5 +1,1 @@
-title:[英] 我是如何移植 Clojure 的 core.async 到 JavaScript 的 (MilhouseVanHouten)
-url:https://medium.com/@oyanglulu/i-just-fork-mori-and-add-core-async-to-it-3cea689e9259&amp;aid=3545&amp;nid=87
-author:
-author_url:
-text:<p>详解</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"[\u82f1] \u6211\u662f\u5982\u4f55\u79fb\u690d Clojure \u7684 core.async \u5230 JavaScript \u7684 (MilhouseVanHouten)","url":"https:\/\/medium.com\/@oyanglulu\/i-just-fork-mori-and-add-core-async-to-it-3cea689e9259&amp;aid=3545&amp;nid=87","author":null,"text":"<p>\u8be6\u89e3<\/p>"}

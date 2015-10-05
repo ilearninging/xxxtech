@@ -1,5 +1,1 @@
-title:Android 性能优化典范 (@胡凯me)
-url:http://hukai.me/android-performance-patterns/&amp;aid=1831&amp;nid=59
-author:
-author_url:
-text:<p>介绍了 Android 系统中有关性能问题的底层工作原理、如何通过工具来找出性能问题以及提升性能的建议。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"Android \u6027\u80fd\u4f18\u5316\u5178\u8303 (@\u80e1\u51efme)","url":"http:\/\/hukai.me\/android-performance-patterns\/&amp;aid=1831&amp;nid=59","author":null,"text":"<p>\u4ecb\u7ecd\u4e86 Android \u7cfb\u7edf\u4e2d\u6709\u5173\u6027\u80fd\u95ee\u9898\u7684\u5e95\u5c42\u5de5\u4f5c\u539f\u7406\u3001\u5982\u4f55\u901a\u8fc7\u5de5\u5177\u6765\u627e\u51fa\u6027\u80fd\u95ee\u9898\u4ee5\u53ca\u63d0\u5347\u6027\u80fd\u7684\u5efa\u8bae\u3002<\/p>"}

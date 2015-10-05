@@ -1,5 +1,1 @@
-title:[译] lmctfy：Google 的开源 Linux 容器
-url:http://geek.csdn.net/news/detail/2934&amp;aid=56&amp;nid=4
-author:
-author_url:
-text:<p>Google 开源了他们的 Linux 容器系统 lmctfy（读音是 lem-kut-fee ），著名的 Linux 容器开源项目 Docker 负责人 Solomon Hykes 初步探索代码后认为，lmctfy 代码很干净、占用小、构建体验优秀，他正在考虑将其作为 Docker 的后端。<a href="https://github.com/google/lmctfy/" target="_blank">GitHub 地址</a> via <a href="http://weibo.com/turingbook" target="_blank">@刘江总编</a></p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"[\u8bd1] lmctfy\uff1aGoogle \u7684\u5f00\u6e90 Linux \u5bb9\u5668","url":"http:\/\/geek.csdn.net\/news\/detail\/2934&amp;aid=56&amp;nid=4","author":null,"text":"<p>Google \u5f00\u6e90\u4e86\u4ed6\u4eec\u7684 Linux \u5bb9\u5668\u7cfb\u7edf lmctfy\uff08\u8bfb\u97f3\u662f lem-kut-fee \uff09\uff0c\u8457\u540d\u7684 Linux \u5bb9\u5668\u5f00\u6e90\u9879\u76ee Docker \u8d1f\u8d23\u4eba Solomon Hykes \u521d\u6b65\u63a2\u7d22\u4ee3\u7801\u540e\u8ba4\u4e3a\uff0clmctfy \u4ee3\u7801\u5f88\u5e72\u51c0\u3001\u5360\u7528\u5c0f\u3001\u6784\u5efa\u4f53\u9a8c\u4f18\u79c0\uff0c\u4ed6\u6b63\u5728\u8003\u8651\u5c06\u5176\u4f5c\u4e3a Docker \u7684\u540e\u7aef\u3002<a href=\"https:\/\/github.com\/google\/lmctfy\/\" target=\"_blank\">GitHub \u5730\u5740<\/a> via <a href=\"http:\/\/weibo.com\/turingbook\" target=\"_blank\">@\u5218\u6c5f\u603b\u7f16<\/a><\/p>"}

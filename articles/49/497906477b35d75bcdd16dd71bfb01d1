@@ -1,5 +1,1 @@
-title:系列文章：谈谈陌陌争霸在数据库方面踩过的坑（@简悦云风）
-url:http://blog.codingnow.com/2014/03/mmzb_db.html&amp;aid=647&amp;nid=56
-author:
-author_url:
-text:<p>此为前篇，另外三篇：<a href="http://blog.codingnow.com/2014/03/mmzb_db_2.html" target="_blank">排行榜篇</a>、<a href="http://blog.codingnow.com/2014/03/mmzb_mongodb.html" target="_blank">MongoDB 篇</a>和 <a href="http://blog.codingnow.com/2014/03/mmzb_redis.html" target="_blank">Redis 篇</a>。</p>
+{"category":"\u6700\u53d7\u6b22\u8fce\u7684\u6280\u672f\u5e72\u8d27\uff08\u7a0b\u5e8f\u8bbe\u8ba1\u7bc7\uff09","title":"\u7cfb\u5217\u6587\u7ae0\uff1a\u8c08\u8c08\u964c\u964c\u4e89\u9738\u5728\u6570\u636e\u5e93\u65b9\u9762\u8e29\u8fc7\u7684\u5751\uff08@\u7b80\u60a6\u4e91\u98ce\uff09","url":"http:\/\/blog.codingnow.com\/2014\/03\/mmzb_db.html&amp;aid=647&amp;nid=56","author":null,"text":"<p>\u6b64\u4e3a\u524d\u7bc7\uff0c\u53e6\u5916\u4e09\u7bc7\uff1a<a href=\"http:\/\/blog.codingnow.com\/2014\/03\/mmzb_db_2.html\" target=\"_blank\">\u6392\u884c\u699c\u7bc7<\/a>\u3001<a href=\"http:\/\/blog.codingnow.com\/2014\/03\/mmzb_mongodb.html\" target=\"_blank\">MongoDB \u7bc7<\/a>\u548c <a href=\"http:\/\/blog.codingnow.com\/2014\/03\/mmzb_redis.html\" target=\"_blank\">Redis \u7bc7<\/a>\u3002<\/p>"}

@@ -1,5 +1,1 @@
-title:Docker 网络中一条命令取代 etcd + flannel 实现真正的 Overlay Network (吴健)
-url:http://dockone.io/article/466&amp;aid=2708&amp;nid=77
-author:
-author_url:
-text:<p>实战分享</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"Docker \u7f51\u7edc\u4e2d\u4e00\u6761\u547d\u4ee4\u53d6\u4ee3 etcd + flannel \u5b9e\u73b0\u771f\u6b63\u7684 Overlay Network (\u5434\u5065)","url":"http:\/\/dockone.io\/article\/466&amp;aid=2708&amp;nid=77","author":null,"text":"<p>\u5b9e\u6218\u5206\u4eab<\/p>"}

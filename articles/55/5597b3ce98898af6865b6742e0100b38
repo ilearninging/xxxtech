@@ -1,5 +1,1 @@
-title:[译] 数据库系统体系结构（@厦大林子雨）
-url:http://dblab.xmu.edu.cn/node/459&amp;aid=261&amp;nid=13
-author:
-author_url:
-text:<p>本文翻译自经典论文<a href="http://dblab.xmu.edu.cn/sites/default/files/files/fntdb07-architecture.pdf" target="_blank">《Architecture of a Database System》</a>，可作为各大高校数据库实验室研究生的入门读物，帮助学生快速了解数据库的内部运行机制。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u8bd1] \u6570\u636e\u5e93\u7cfb\u7edf\u4f53\u7cfb\u7ed3\u6784\uff08@\u53a6\u5927\u6797\u5b50\u96e8\uff09","url":"http:\/\/dblab.xmu.edu.cn\/node\/459&amp;aid=261&amp;nid=13","author":null,"text":"<p>\u672c\u6587\u7ffb\u8bd1\u81ea\u7ecf\u5178\u8bba\u6587<a href=\"http:\/\/dblab.xmu.edu.cn\/sites\/default\/files\/files\/fntdb07-architecture.pdf\" target=\"_blank\">\u300aArchitecture of a Database System\u300b<\/a>\uff0c\u53ef\u4f5c\u4e3a\u5404\u5927\u9ad8\u6821\u6570\u636e\u5e93\u5b9e\u9a8c\u5ba4\u7814\u7a76\u751f\u7684\u5165\u95e8\u8bfb\u7269\uff0c\u5e2e\u52a9\u5b66\u751f\u5feb\u901f\u4e86\u89e3\u6570\u636e\u5e93\u7684\u5185\u90e8\u8fd0\u884c\u673a\u5236\u3002<\/p>"}

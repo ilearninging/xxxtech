@@ -1,5 +1,1 @@
-title:新浪新闻评论系统的架构演进和经验总结 (@pi1ot)
-url:http://www.csdn.net/article/2014-12-17/2823183&amp;aid=1735&amp;nid=55
-author:
-author_url:
-text:<p>作者刘立曾负责新浪网评论系统多年，经历了从单机到多机再到集群，从简单到复杂再回归简单的过程。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u65b0\u6d6a\u65b0\u95fb\u8bc4\u8bba\u7cfb\u7edf\u7684\u67b6\u6784\u6f14\u8fdb\u548c\u7ecf\u9a8c\u603b\u7ed3 (@pi1ot)","url":"http:\/\/www.csdn.net\/article\/2014-12-17\/2823183&amp;aid=1735&amp;nid=55","author":null,"text":"<p>\u4f5c\u8005\u5218\u7acb\u66fe\u8d1f\u8d23\u65b0\u6d6a\u7f51\u8bc4\u8bba\u7cfb\u7edf\u591a\u5e74\uff0c\u7ecf\u5386\u4e86\u4ece\u5355\u673a\u5230\u591a\u673a\u518d\u5230\u96c6\u7fa4\uff0c\u4ece\u7b80\u5355\u5230\u590d\u6742\u518d\u56de\u5f52\u7b80\u5355\u7684\u8fc7\u7a0b\u3002<\/p>"}

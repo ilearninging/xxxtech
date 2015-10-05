@@ -1,5 +1,1 @@
-title:[译] Go 语言趣味教材：并发不是并行 (Waza)
-url:http://www.vaikan.com/docs/Concurrency-is-not-Parallelism/&amp;aid=1775&amp;nid=57
-author:
-author_url:
-text:<p>并发 vs. 并行</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"[\u8bd1] Go \u8bed\u8a00\u8da3\u5473\u6559\u6750\uff1a\u5e76\u53d1\u4e0d\u662f\u5e76\u884c (Waza)","url":"http:\/\/www.vaikan.com\/docs\/Concurrency-is-not-Parallelism\/&amp;aid=1775&amp;nid=57","author":null,"text":"<p>\u5e76\u53d1 vs. \u5e76\u884c<\/p>"}

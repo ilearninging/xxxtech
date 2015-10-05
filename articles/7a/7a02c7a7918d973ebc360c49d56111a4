@@ -1,5 +1,1 @@
-title:如何使用 Unity* 规划优化
-url:http://software.intel.com/zh-cn/articles/how-to-plan-optimizations-with-unity/?utm_source=Manong&utm_medium=Text+Link&utm_campaign=GameDev_PRC_Q2-15_Manong&amp;aid=2870&amp;nid=79
-author:
-author_url:
-text:<p>Unity 的优势之一是能够快速创建内容，但是当涉及性能时，尤其在移动和平板设备上，开发人员需要放慢速度，规划如何使用内置的性能机制。</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"\u5982\u4f55\u4f7f\u7528 Unity* \u89c4\u5212\u4f18\u5316","url":"http:\/\/software.intel.com\/zh-cn\/articles\/how-to-plan-optimizations-with-unity\/?utm_source=Manong&utm_medium=Text+Link&utm_campaign=GameDev_PRC_Q2-15_Manong&amp;aid=2870&amp;nid=79","author":null,"text":"<p>Unity \u7684\u4f18\u52bf\u4e4b\u4e00\u662f\u80fd\u591f\u5feb\u901f\u521b\u5efa\u5185\u5bb9\uff0c\u4f46\u662f\u5f53\u6d89\u53ca\u6027\u80fd\u65f6\uff0c\u5c24\u5176\u5728\u79fb\u52a8\u548c\u5e73\u677f\u8bbe\u5907\u4e0a\uff0c\u5f00\u53d1\u4eba\u5458\u9700\u8981\u653e\u6162\u901f\u5ea6\uff0c\u89c4\u5212\u5982\u4f55\u4f7f\u7528\u5185\u7f6e\u7684\u6027\u80fd\u673a\u5236\u3002<\/p>"}

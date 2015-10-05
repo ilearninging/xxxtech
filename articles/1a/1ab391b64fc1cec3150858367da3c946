@@ -1,5 +1,1 @@
-title:[译] Salesforce 架构介绍（CSDN云计算）
-url:http://www.csdn.net/article/2013-09-26/2817051-salesforce-13b-transactions-architecture&amp;aid=39&amp;nid=3
-author:
-author_url:
-text:<p>自1999年 Salesforce 就开始专注互联网技术，致力于传统企业软件的替换。而今其日处理事务已超13亿，峰值情况下数据库上的事务更达每秒2.4万，近日 Salesforce 公布了其系统的架构。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"[\u8bd1] Salesforce \u67b6\u6784\u4ecb\u7ecd\uff08CSDN\u4e91\u8ba1\u7b97\uff09","url":"http:\/\/www.csdn.net\/article\/2013-09-26\/2817051-salesforce-13b-transactions-architecture&amp;aid=39&amp;nid=3","author":null,"text":"<p>\u81ea1999\u5e74 Salesforce \u5c31\u5f00\u59cb\u4e13\u6ce8\u4e92\u8054\u7f51\u6280\u672f\uff0c\u81f4\u529b\u4e8e\u4f20\u7edf\u4f01\u4e1a\u8f6f\u4ef6\u7684\u66ff\u6362\u3002\u800c\u4eca\u5176\u65e5\u5904\u7406\u4e8b\u52a1\u5df2\u8d8513\u4ebf\uff0c\u5cf0\u503c\u60c5\u51b5\u4e0b\u6570\u636e\u5e93\u4e0a\u7684\u4e8b\u52a1\u66f4\u8fbe\u6bcf\u79d22.4\u4e07\uff0c\u8fd1\u65e5 Salesforce \u516c\u5e03\u4e86\u5176\u7cfb\u7edf\u7684\u67b6\u6784\u3002<\/p>"}

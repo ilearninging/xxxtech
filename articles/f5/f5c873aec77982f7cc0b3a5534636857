@@ -1,5 +1,1 @@
-title:[译] Effective Go（Amal Cao、邢明杰）
-url:http://www.hellogcc.org/effective_go.html&amp;aid=1429&amp;nid=44
-author:
-author_url:
-text:<p>本文档对如何编写清晰、符合语言规范的 Go 代码，给出了一些建议。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"[\u8bd1] Effective Go\uff08Amal Cao\u3001\u90a2\u660e\u6770\uff09","url":"http:\/\/www.hellogcc.org\/effective_go.html&amp;aid=1429&amp;nid=44","author":null,"text":"<p>\u672c\u6587\u6863\u5bf9\u5982\u4f55\u7f16\u5199\u6e05\u6670\u3001\u7b26\u5408\u8bed\u8a00\u89c4\u8303\u7684 Go \u4ee3\u7801\uff0c\u7ed9\u51fa\u4e86\u4e00\u4e9b\u5efa\u8bae\u3002<\/p>"}

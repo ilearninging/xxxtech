@@ -1,5 +1,1 @@
-title:Spark GraphX 在淘宝的实践（黄明、吴炜）
-url:http://www.csdn.net/article/2014-08-07/2821097&amp;aid=1329&amp;nid=41
-author:
-author_url:
-text:<p>由于 Spark GraphX 性能良好，又有丰富的功能和运算符，能在海量数据上自如运行复杂的图算法，淘宝尝试将它作为分布式图计算平台，进行各种算法尝试和生产应用。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"Spark GraphX \u5728\u6dd8\u5b9d\u7684\u5b9e\u8df5\uff08\u9ec4\u660e\u3001\u5434\u709c\uff09","url":"http:\/\/www.csdn.net\/article\/2014-08-07\/2821097&amp;aid=1329&amp;nid=41","author":null,"text":"<p>\u7531\u4e8e Spark GraphX \u6027\u80fd\u826f\u597d\uff0c\u53c8\u6709\u4e30\u5bcc\u7684\u529f\u80fd\u548c\u8fd0\u7b97\u7b26\uff0c\u80fd\u5728\u6d77\u91cf\u6570\u636e\u4e0a\u81ea\u5982\u8fd0\u884c\u590d\u6742\u7684\u56fe\u7b97\u6cd5\uff0c\u6dd8\u5b9d\u5c1d\u8bd5\u5c06\u5b83\u4f5c\u4e3a\u5206\u5e03\u5f0f\u56fe\u8ba1\u7b97\u5e73\u53f0\uff0c\u8fdb\u884c\u5404\u79cd\u7b97\u6cd5\u5c1d\u8bd5\u548c\u751f\u4ea7\u5e94\u7528\u3002<\/p>"}

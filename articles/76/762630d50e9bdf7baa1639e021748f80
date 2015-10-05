@@ -1,5 +1,1 @@
-title:深入 PHP 内核（一）——弱类型变量原理探究（王帅）
-url:http://www.csdn.net/article/2014-09-15/2821685-exploring-of-the-php&amp;aid=1453&amp;nid=45
-author:
-author_url:
-text:<p>本文探索 PHP 弱类型的原理，同时从写 PHP 扩展的角度介绍如何操作 PHP 的变量。 </p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"\u6df1\u5165 PHP \u5185\u6838\uff08\u4e00\uff09\u2014\u2014\u5f31\u7c7b\u578b\u53d8\u91cf\u539f\u7406\u63a2\u7a76\uff08\u738b\u5e05\uff09","url":"http:\/\/www.csdn.net\/article\/2014-09-15\/2821685-exploring-of-the-php&amp;aid=1453&amp;nid=45","author":null,"text":"<p>\u672c\u6587\u63a2\u7d22 PHP \u5f31\u7c7b\u578b\u7684\u539f\u7406\uff0c\u540c\u65f6\u4ece\u5199 PHP \u6269\u5c55\u7684\u89d2\u5ea6\u4ecb\u7ecd\u5982\u4f55\u64cd\u4f5c PHP \u7684\u53d8\u91cf\u3002 <\/p>"}

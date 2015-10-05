@@ -1,5 +1,1 @@
-title:《Redis 设计与实现》
-url:http://www.amazon.cn/gp/product/B00L4XHH0S/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00L4XHH0S&linkCode=as2&tag=manongio-23&amp;aid=1210&amp;nid=37
-author:<small>黄健宏</small>
-author_url:
-text:<p>全面而完整地讲解了 Redis 的内部机制与实现方式，对 Redis 的大多数单机功能以及所有多机功能的实现原理进行了介绍，展示了这些功能的核心数据结构以及关键的算法思想。</p>
+{"category":"\u6bcf\u5468\u4e00\u4e66","title":"\u300aRedis \u8bbe\u8ba1\u4e0e\u5b9e\u73b0\u300b","url":"http:\/\/www.amazon.cn\/gp\/product\/B00L4XHH0S\/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00L4XHH0S&linkCode=as2&tag=manongio-23&amp;aid=1210&amp;nid=37","author":"http:\/\/weibo.com\/huangz1990","text":"<p>\u5168\u9762\u800c\u5b8c\u6574\u5730\u8bb2\u89e3\u4e86 Redis \u7684\u5185\u90e8\u673a\u5236\u4e0e\u5b9e\u73b0\u65b9\u5f0f\uff0c\u5bf9 Redis \u7684\u5927\u591a\u6570\u5355\u673a\u529f\u80fd\u4ee5\u53ca\u6240\u6709\u591a\u673a\u529f\u80fd\u7684\u5b9e\u73b0\u539f\u7406\u8fdb\u884c\u4e86\u4ecb\u7ecd\uff0c\u5c55\u793a\u4e86\u8fd9\u4e9b\u529f\u80fd\u7684\u6838\u5fc3\u6570\u636e\u7ed3\u6784\u4ee5\u53ca\u5173\u952e\u7684\u7b97\u6cd5\u601d\u60f3\u3002<\/p>"}

@@ -1,5 +1,1 @@
-title:Redis 实现访问频次限制的几种方式 (vino_Yang)
-url:http://vinoyang.com/2015/08/23/redis-incr-implement-rate-limit/&amp;aid=3379&amp;nid=85
-author:
-author_url:
-text:<p>两种模式</p>
+{"category":"\u5de5\u5177\u8d44\u6599","title":"Redis \u5b9e\u73b0\u8bbf\u95ee\u9891\u6b21\u9650\u5236\u7684\u51e0\u79cd\u65b9\u5f0f (vino_Yang)","url":"http:\/\/vinoyang.com\/2015\/08\/23\/redis-incr-implement-rate-limit\/&amp;aid=3379&amp;nid=85","author":null,"text":"<p>\u4e24\u79cd\u6a21\u5f0f<\/p>"}

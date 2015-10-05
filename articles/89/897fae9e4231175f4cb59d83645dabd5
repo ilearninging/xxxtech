@@ -1,5 +1,1 @@
-title:高性能 Python 扩展（第 1 部分） (J. David Lee)
-url:https://www.crumpington.com/blog/2014/10-19-high-performance-python-extensions-part-1.html&amp;aid=1534&amp;nid=48
-author:
-author_url:
-text:<p>偏深的文章，用 C 语言编写 Python 扩展。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"\u9ad8\u6027\u80fd Python \u6269\u5c55\uff08\u7b2c 1 \u90e8\u5206\uff09 (J. David Lee)","url":"https:\/\/www.crumpington.com\/blog\/2014\/10-19-high-performance-python-extensions-part-1.html&amp;aid=1534&amp;nid=48","author":null,"text":"<p>\u504f\u6df1\u7684\u6587\u7ae0\uff0c\u7528 C \u8bed\u8a00\u7f16\u5199 Python \u6269\u5c55\u3002<\/p>"}

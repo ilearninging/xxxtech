@@ -1,5 +1,1 @@
-title:系列文章：重构 JavaScript 应用的七种模式 (Michael Phillips)
-url:http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value&amp;aid=1217&amp;nid=37
-author:
-author_url:
-text:<p>包括：Value Objects、Service Objects、Form Objects、Query Objects、View Objects、Policy Objects 和 Decorators。</p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"\u7cfb\u5217\u6587\u7ae0\uff1a\u91cd\u6784 JavaScript \u5e94\u7528\u7684\u4e03\u79cd\u6a21\u5f0f (Michael Phillips)","url":"http:\/\/journal.crushlovely.com\/post\/88286828068\/7-patterns-to-refactor-javascript-applications-value&amp;aid=1217&amp;nid=37","author":null,"text":"<p>\u5305\u62ec\uff1aValue Objects\u3001Service Objects\u3001Form Objects\u3001Query Objects\u3001View Objects\u3001Policy Objects \u548c Decorators\u3002<\/p>"}

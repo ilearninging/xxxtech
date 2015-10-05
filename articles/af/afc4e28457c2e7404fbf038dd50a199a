@@ -1,5 +1,1 @@
-title:最小的分布式系统 Travis CI（Mathias Meyer）
-url:http://www.paperplanes.de/2013/10/18/the-smallest-distributed-system.html&amp;aid=99&amp;nid=7
-author:
-author_url:
-text:<p>Travis CI 是一个为开源软件做持续集成的服务，到2013年为止每天有45000个 Build 任务在它的500多台 Build 服务器上执行。文章介绍了它的架构演化过程，值得一读。via <a href="http://e.weibo.com/emclabschina" target="_blank">@EMC中国研究院</a></p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"\u6700\u5c0f\u7684\u5206\u5e03\u5f0f\u7cfb\u7edf Travis CI\uff08Mathias Meyer\uff09","url":"http:\/\/www.paperplanes.de\/2013\/10\/18\/the-smallest-distributed-system.html&amp;aid=99&amp;nid=7","author":null,"text":"<p>Travis CI \u662f\u4e00\u4e2a\u4e3a\u5f00\u6e90\u8f6f\u4ef6\u505a\u6301\u7eed\u96c6\u6210\u7684\u670d\u52a1\uff0c\u52302013\u5e74\u4e3a\u6b62\u6bcf\u5929\u670945000\u4e2a Build \u4efb\u52a1\u5728\u5b83\u7684500\u591a\u53f0 Build \u670d\u52a1\u5668\u4e0a\u6267\u884c\u3002\u6587\u7ae0\u4ecb\u7ecd\u4e86\u5b83\u7684\u67b6\u6784\u6f14\u5316\u8fc7\u7a0b\uff0c\u503c\u5f97\u4e00\u8bfb\u3002via <a href=\"http:\/\/e.weibo.com\/emclabschina\" target=\"_blank\">@EMC\u4e2d\u56fd\u7814\u7a76\u9662<\/a><\/p>"}

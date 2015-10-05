@@ -1,5 +1,1 @@
-title:WhatsApp 架构设计 (High Scalability)
-url:http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html&amp;aid=500&amp;nid=21
-author:
-author_url:
-text:<p>来自 High Scalability 的整理，<a href="http://www.csdn.net/article/2014-02-27/2818559-an-overview-at-whatsapp's-19b-architecture/1" target="_blank">译文</a>。同时推荐知乎上的<a href="http://www.zhihu.com/question/22805720" target="_blank">讨论</a>。</p>
+{"category":"\u7a0b\u5e8f\u8bbe\u8ba1","title":"WhatsApp \u67b6\u6784\u8bbe\u8ba1 (High Scalability)","url":"http:\/\/highscalability.com\/blog\/2014\/2\/26\/the-whatsapp-architecture-facebook-bought-for-19-billion.html&amp;aid=500&amp;nid=21","author":null,"text":"<p>\u6765\u81ea High Scalability \u7684\u6574\u7406\uff0c<a href=\"http:\/\/www.csdn.net\/article\/2014-02-27\/2818559-an-overview-at-whatsapp's-19b-architecture\/1\" target=\"_blank\">\u8bd1\u6587<\/a>\u3002\u540c\u65f6\u63a8\u8350\u77e5\u4e4e\u4e0a\u7684<a href=\"http:\/\/www.zhihu.com\/question\/22805720\" target=\"_blank\">\u8ba8\u8bba<\/a>\u3002<\/p>"}

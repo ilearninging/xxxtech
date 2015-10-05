@@ -1,5 +1,1 @@
-title:Spring 4.0 正式版发布
-url:http://spring.io/blog/2013/12/12/announcing-spring-framework-4-0-ga-release&amp;aid=302&amp;nid=14
-author:
-author_url:
-text:<p>Release Notes 里又提到了 micro-service architecture，使用嵌入式的 Jetty/Tomcat 打包成一个可执行的 Jar。这样做对测试、部署和扩展都有莫大好处。via <a href="http://weibo.com/calvin1978" target="_blank">@江南白衣Calvin</a></p>
+{"category":"\u7f16\u7a0b\u8bed\u8a00","title":"Spring 4.0 \u6b63\u5f0f\u7248\u53d1\u5e03","url":"http:\/\/spring.io\/blog\/2013\/12\/12\/announcing-spring-framework-4-0-ga-release&amp;aid=302&amp;nid=14","author":null,"text":"<p>Release Notes \u91cc\u53c8\u63d0\u5230\u4e86 micro-service architecture\uff0c\u4f7f\u7528\u5d4c\u5165\u5f0f\u7684 Jetty\/Tomcat \u6253\u5305\u6210\u4e00\u4e2a\u53ef\u6267\u884c\u7684 Jar\u3002\u8fd9\u6837\u505a\u5bf9\u6d4b\u8bd5\u3001\u90e8\u7f72\u548c\u6269\u5c55\u90fd\u6709\u83ab\u5927\u597d\u5904\u3002via <a href=\"http:\/\/weibo.com\/calvin1978\" target=\"_blank\">@\u6c5f\u5357\u767d\u8863Calvin<\/a><\/p>"}
